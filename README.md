@@ -3,7 +3,7 @@
 KCT is the briefcase of KubeCon Tags, aiming at providing fast search by speech topic catogaries.
 
 * Application + Development
-  * [2019-KubeConEU-Barcelona]()
+  * [2019 KubeConEU Barcelona]()
     * Building Images Efficiently and Securely on Kubernetes with BuildKit - Akihiro Suda, NTT Corporation [▶️](https://www.youtube.com/watch?v=JKbPzUnAZ1Y) [📚](https://static.sched.com/hosted_files/kccnceu19/12/Building%20images%20%20efficiently%20and%20securely%20on%20Kubernetes%20with%20BuildKit.pdf)
     * Intro to CNAB: Packaging Cloud Native Applications with Multiple Toolchains - Chris Crone, Docker [▶️](https://www.youtube.com/watch?v=r6aqKhvdsRs) [📚](https://static.sched.com/hosted_files/kccnceu19/58/KubeCon%20EU%202019%20Intro%20to%20CNAB.pdf)
     * Scavenging for Reusable Code in the Kubernetes Codebase - Kevin Lingerfelt, Buoyant  [▶️](https://www.youtube.com/watch?v=G8swjziYjY8) [📚](https://static.sched.com/hosted_files/kccnceu19/58/KubeCon%20EU%202019%20Intro%20to%20CNAB.pdf)
