@@ -21,8 +21,9 @@ KCT is the briefcase of KubeCon Tags, aiming at providing fast search by speech 
     * Sharing is Caring: Your Kubernetes Cluster, Namespaces, and You - Amy Chen &amp; Eryn Muetzel, VMware [▶️](https://www.youtube.com/watch?v=_VNv7jBh1XA) [📚](https://static.sched.com/hosted_files/kccnceu19/c9/Sharing%20is%20Caring%20-%20Kubecon%20EU%202019.pdf)
     * Building and Maintaining a Client Library - Stories From the Trenches - Jussi Nummelin, Kontena Inc. [▶️](https://www.youtube.com/watch?v=uCgFETEdC80) [📚](https://static.sched.com/hosted_files/kccnceu19/23/KubeCon-Kube-Api-Client-Experiences_v2.pdf)
     * Microservices for the Masses – Integrating a Distributed OS with Kubernetes - Q. Hoole &amp; I. Zhang [▶️](https://www.youtube.com/watch?v=C79Dcr3i2pw) [📚](https://static.sched.com/hosted_files/kccnceu19/56/Microservices-for-the-masses-Quinton-and-Irene.pdf)
+    
 * Case Studies 
- * [2019 KubeConEU Barcelona]()
+  * [2019 KubeConEU Barcelona]()
     * Birds of a Feather: Radio Access Network LTE/CBRS Edge - John Studarus, Packet Host [▶️](https://www.youtube.com/watch?v=za_ZB1geDRA) [ 📚](https://static.sched.com/hosted_files/kccnceu19/41/The%20Edge%20is%20Open%20-%20Kubecon%20EU%202019.pdf)
     * Kubernetes the New Research Platform - Lindsey Tulloch &amp; Bob Killen [▶️](https://www.youtube.com/watch?v=E09XTOWbBKw) [ 📚](https://static.sched.com/hosted_files/kccnceu19/32/Kubernetes%20the%20New%20Research%20Platform%20%28FINAL%29.pdf)
     * Kubernetes Security and How to Fix K8s Cluster at Scale - Simon Pearce &amp; Sebastian Scheele [▶️](https://www.youtube.com/watch?v=5dWRh301Lno) [ 📚](https://static.sched.com/hosted_files/kccnceu19/ef/KubeCon-Europe-2019.pdf)
