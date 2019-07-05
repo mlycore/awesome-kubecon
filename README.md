@@ -16,3 +16,5 @@ This is the briefcase of KubeCon Tags, aiming at providing fast search by speech
   * [Security Identity Policy](https://github.com/mlycore/awesome-kubecon/tree/master/Security%20Identity%20Policy#2019-kubeconeu-barcelona)
   * [Serverless](https://github.com/mlycore/awesome-kubecon/tree/master/Serverless#2019-kubeconeu-barcelona)
   * [Service Mesh](https://github.com/mlycore/awesome-kubecon/tree/master/Service%20Mesh#2019-kubeconeu-barcelona)
+  * [Storage](https://github.com/mlycore/awesome-kubecon/tree/master/Storage#2019-kubeconeu-barcelona)
+  * [Tutorials](https://github.com/mlycore/awesome-kubecon/tree/master/Tutorials#2019-kubeconeu-barcelona)
