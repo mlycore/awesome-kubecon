@@ -11,3 +11,5 @@ Performance Scalability
 * Running eBay’s High-Performance Workloads with Kubernetes - Xin Ma, eBay [▶️](https://www.youtube.com/watch?v=tcZW6gD5mn8) [ 📚](https://static.sched.com/hosted_files/kccnceu19/20/Running_high-performance_workloads_at_scale_with_k8s_Xin_Ma_eBay.pdf)
 * Scale Kubernetes Service Endpoints 100x - Minhan Xia &amp; Wojciech Tyczynski, Google [▶️](https://www.youtube.com/watch?v=Y5JOCCbJ_Fg) [ 📚](https://static.sched.com/hosted_files/kccnceu19/f0/Scale%20Kubernetes%20Service%20Endpoints%20100x.pdf)
 * Where&#39;s My Pod, Already? A Tale of Cold-Start Struggles on Kubernetes - Gregory Haynes, IBM [▶️](https://www.youtube.com/watch?v=aFbh_BOGcjs) [ 📚]()
+* Fool-Proof Kubernetes Dashboards for Sleep-Deprived Oncalls - David Kaltschmidt, Grafana Labs  [▶️](https://www.youtube.com/watch?v=YE2aQFiMGfY) [ 📚]()
+* Inside the CNCF Project Security Reviews - Justin Cormack, Docker [▶️](https://www.youtube.com/watch?v=0BkKpsrUo5k) [ 📚](https://static.sched.com/hosted_files/kccnceu19/aa/Kubecon%20EU%20security%20reviews.pdf)
