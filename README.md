@@ -8,3 +8,5 @@ This is the briefcase of KubeCon Tags, aiming at providing fast search by speech
   * [Lightning Talks](https://github.com/mlycore/awesome-kubecon/tree/master/Lightning%20Talks#2019-kubeconeu-barcelona)
   * [Machine Learning Data](https://github.com/mlycore/awesome-kubecon/blob/master/Machine%20Learning%20Data/README.md#2019-kubeconeu-barcelona)
   * [Maintainer Track](https://github.com/mlycore/awesome-kubecon/tree/master/Maintainer%20Track#2019-kubeconeu-barcelona)
+  * [Networking](https://github.com/mlycore/awesome-kubecon/tree/master/Networking#2019-kubeconeu-barcelona)
+  * [Observability](https://github.com/mlycore/awesome-kubecon/tree/master/Observability#2019-kubeconeu-barcelona)
