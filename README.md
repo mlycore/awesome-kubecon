@@ -10,3 +10,5 @@ This is the briefcase of KubeCon Tags, aiming at providing fast search by speech
   * [Maintainer Track](https://github.com/mlycore/awesome-kubecon/tree/master/Maintainer%20Track#2019-kubeconeu-barcelona)
   * [Networking](https://github.com/mlycore/awesome-kubecon/tree/master/Networking#2019-kubeconeu-barcelona)
   * [Observability](https://github.com/mlycore/awesome-kubecon/tree/master/Observability#2019-kubeconeu-barcelona)
+  * [Operations](https://github.com/mlycore/awesome-kubecon/tree/master/Operations#operations)
+  * [Performance Scalability](https://github.com/mlycore/awesome-kubecon/tree/master/Performance%20Scalability#performance-scalability)
