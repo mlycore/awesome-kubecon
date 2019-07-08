@@ -12,3 +12,5 @@ Customizing Extending Kubernetes
 * The Kubernetes Control Plane for Busy People Who Like Pictures - Daniel Smith, Google [▶️](https://www.youtube.com/watch?v=zCXiXKMqnuE) [ 📚](https://static.sched.com/hosted_files/kccnceu19/c0/control%20plane%20in%20pictures%20final.pdf)
 * The Multicluster Toolbox - Adrien Trouillaud, Admiralty [▶️](https://www.youtube.com/watch?v=Fv2PKKDgjIQ) [ 📚](https://static.sched.com/hosted_files/kccnceu19/4f/KubeCon-Europe-2019-The_Multicluster_Toolbox-DRAFT.pdf)
 * Writing kubectl Plugins for Everyone: Develop, Package &amp; Distribute - Ahmet Alp Balkan [▶️](https://www.youtube.com/watch?v=83ITOTsXsHU) [ 📚](https://static.sched.com/hosted_files/kccnceu19/88/KubeCon%20EU%2719_%20kubectl%20plugins%20talk.pdf)
+* Kanary - Automated and Integrated Canary Testing Using CRD... - David Benque &amp; Cédric Lamorinière [▶️](https://www.youtube.com/watch?v=mmvSzDEw-JI) [ 📚](https://static.sched.com/hosted_files/kccnceu19/f7/Kanary_KubeCon-Europe-2019.pdf)
+

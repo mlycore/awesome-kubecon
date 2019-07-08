@@ -111,3 +111,4 @@ Maintainer Track
 * Intro: Vitess - Sugu Sougoumarane &amp; Deepthi Sigireddi, PlanetScale [▶️](https://www.youtube.com/watch?v=H4B5zLBfGN8) [ 📚](https://static.sched.com/hosted_files/kccnceu19/9c/Vitess%40Kubecon2019Barcelona.pdf)
 * KubeFlow BoF: David Aronchick, Microsoft &amp; Yaron Haviv, Iguazio [▶️](https://www.youtube.com/watch?v=27jfFO1ym7Q) [ 📚]()
 * OpenTelemetry: Backwards Compatibility with... - Ben Sigelman, Bogdan Drutu &amp; Spiros Xanthos [▶️](https://www.youtube.com/watch?v=mvWwSkBq9sY) [ 📚]()
+* OpenTelemetry: Panel Discussion and Q&amp;A - Ben Sigelman, Morgan McClean &amp; Bogdan Drutu [▶️](https://www.youtube.com/watch?v=IdYZphA5S7s) [ 📚]()

@@ -13,4 +13,6 @@ Machine Learning Data
 * GPU Sharing for Machine Learning Workload on Kubernetes - Henry Zhang &amp; Yang Yu, VMware [▶️](https://www.youtube.com/watch?v=T4i33nnSZtc) [ 📚](https://static.sched.com/hosted_files/kccnceu19/59/KubeConEurope2019GPUSharingV1.3.pdf)
 * Production GPU Cluster with K8s for AI and DL Workloads - Madhukar Korupolu, NVIDIA [▶️](https://www.youtube.com/watch?v=1aFOoMIbSEw) [ 📚](https://static.sched.com/hosted_files/kccnceu19/bf/Production%20GPU%20Clusters%20with%20K8s%20%28Kubecon%202019%29.pdf)
 * Building Cross-Cloud ML Pipelines with Kubeflow with Spark &amp; Tensorflow - Holden Karau [▶️](https://www.youtube.com/watch?v=jdBbFSghM2s) [ 📚]()
+* Managing Machine Learning in Production with Kubeflow and DevOps - David Aronchick, Microsoft [▶️](https://www.youtube.com/watch?v=lu5zHvpQeSI) [ 📚](https://static.sched.com/hosted_files/kccnceu19/12/Managing%20Machine%20Learning%20in%20Production%20with%20Kubeflow%20and%20MLOps.pdf)
+* The Data Analytics Platform or How to Make Data Science in a Box Possible - Krzysztof Adamski [▶️](https://www.youtube.com/watch?v=8cE9ppbnDPs) [ 📚](https://static.sched.com/hosted_files/kccnceu19/65/ING%20Data%20Analytics%20Platform.pdf)
 

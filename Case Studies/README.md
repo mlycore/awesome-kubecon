@@ -20,3 +20,5 @@ Case Studies
 * Databases on Kubernetes Using a Custom Operator: Day 1, Day 2, and Beyond - Johannes Unterstein [▶️](https://www.youtube.com/watch?v=qgtlztEFqr4) [ 📚](https://static.sched.com/hosted_files/kccnceu19/ef/KubeCon-Europe-2019.pdf)
 * Panel Discussion: Leveraging Cloud Native Technology to Transform Your Enterprise [▶️](https://www.youtube.com/watch?v=0CxDZOJP6Rc) [ 📚]()
 * Kubernetes + Encrypted Memory Laying the Foundation: Real World Kubernetes Deployment Patterns - Josh Rosso &amp; Craig Tracey, VMware [▶️](https://www.youtube.com/watch?v=pGMdSFlD0_E) [ 📚](https://static.sched.com/hosted_files/kccnceu19/9d/laying%20the%20foundation.pdf)
+* Laying the Foundation: Real World Kubernetes Deployment Patterns - Josh Rosso &amp; Craig Tracey, VMware [▶️](https://www.youtube.com/watch?v=Rb0JMVVZ1N8) [ 📚](https://static.sched.com/hosted_files/kccnceu19/9d/laying%20the%20foundation.pdf)
+
