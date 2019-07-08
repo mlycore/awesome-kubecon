@@ -12,4 +12,3 @@ Machine Learning Data
 * A Tale of Two Worlds: Canary-Testing for Both ML Models and Microservices - Jörg Schad [▶️](https://www.youtube.com/watch?v=ctATGBxDzRg) [ 📚](https://static.sched.com/hosted_files/kccnceu19/66/A%20Tale%20of%20two%20worlds%20%282%29.pdf)
 * GPU Sharing for Machine Learning Workload on Kubernetes - Henry Zhang &amp; Yang Yu, VMware [▶️](https://www.youtube.com/watch?v=T4i33nnSZtc) [ 📚](https://static.sched.com/hosted_files/kccnceu19/59/KubeConEurope2019GPUSharingV1.3.pdf)
 * Production GPU Cluster with K8s for AI and DL Workloads - Madhukar Korupolu, NVIDIA [▶️](https://www.youtube.com/watch?v=1aFOoMIbSEw) [ 📚](https://static.sched.com/hosted_files/kccnceu19/bf/Production%20GPU%20Clusters%20with%20K8s%20%28Kubecon%202019%29.pdf)
-* Keynote: Stitching Things Together – Dan Kohn, Executive Director, Cloud Native Computing Foundation [▶️](https://www.youtube.com/watch?v=lmGFgZ889kY) [ 📚]()
