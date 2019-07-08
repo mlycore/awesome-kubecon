@@ -3,7 +3,6 @@ Customizing Extending Kubernetes
 ## 2019 KubeConEU Barcelona
 
 * Extending Knative for Fun and Profit - Matt Moore &amp; Ville Aikas, Google [▶️](https://www.youtube.com/watch?v=Mb8c5SP-Sw0) [ 📚](https://static.sched.com/hosted_files/kccnceu19/ba/what-the-duck.pdf)
-* How Intuit Does Canary and Blue Green Deployments with a K8s Controller - Daniel Thomson [▶️](https://www.youtube.com/watch?v=yeVkTTO9nOA) [ 📚](https://static.sched.com/hosted_files/kccnceu19/f7/Kanary_KubeCon-Europe-2019.pdf)
 * Keep the Space Shuttle Flying: Writing Robust Operators - Illya Chekrygin, Upbound [▶️](https://www.youtube.com/watch?v=uf97lOApOv8) [ 📚](https://static.sched.com/hosted_files/kccnceu19/1b/Writing%20Robust%20Operators.pdf)
 * Lifecycle of a kubectl Command: Harden Kubernetes Setup with Automation - Sanjary Rahman [▶️](https://www.youtube.com/watch?v=vHGnL0vSr4E) [ 📚](https://static.sched.com/hosted_files/kccnceu19/ae/Lifecycle%20of%20a%20kubectl%20command%20-%20Sanjary.pdf)
 * Network Machinery: A United-Front for Network Troubleshooting with CRDs - Adel Zaalouk, SAP [▶️](https://www.youtube.com/watch?v=JsJoRkmzoa0) [ 📚](https://static.sched.com/hosted_files/kccnceu19/8a/NetworkMachinery_Final.pdf)
