@@ -2,7 +2,7 @@ CICD
 ---
 ## 2019 KubeConEU Barcelona
 
-* How Intuit Does Canary and Blue Green Deployments with a K8s Controller - Daniel Thomson [▶️](https://www.youtube.com/watch?v=yeVkTTO9nOA) [ 📚](https://static.sched.com/hosted_files/kccnceu19/f7/Kanary_KubeCon-Europe-2019.pdf)
+* How Intuit Does Canary and Blue Green Deployments with a K8s Controller - Daniel Thomson [▶️](https://www.youtube.com/watch?v=yeVkTTO9nOA) [ 📚](https://static.sched.com/hosted_files/kccnceu19/43/KubeCon-Europe-2019.pdf)
 * How Does Google Release Kubernetes in GKE - Kobi Magnezi &amp; Josh Hoak, Google [▶️](https://www.youtube.com/watch?v=6D5JMFqlov4) [ 📚](https://static.sched.com/hosted_files/kccnceu19/9c/Kubecon%20EU%202019%20-%20Final.pdf)
 * Kubectl Apply 2019: Defense Against the Dark Arts - Phillip Wittrock &amp; Jennifer Buckley, Google [▶️](https://www.youtube.com/watch?v=1DWWlcDUxtA) [ 📚]()
 * Modern CI/CD with Tekton and Prow Automated via Jenkins X - James Rawlings, Cloudbees [▶️](https://www.youtube.com/watch?v=4EyTGYB7GvA) [ 📚](https://static.sched.com/hosted_files/kccnceu19/98/Modern%20CI_CD%20with%20Tekton%20and%20Prow%20Automated%20via%20Jenkins%20X.pdf)
