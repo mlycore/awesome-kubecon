@@ -5,6 +5,9 @@ This is the briefcase of KubeCon Tags, aiming at providing fast search by speech
 * 2019 KubeConEU Barcelona
   * [Appplication Development](https://github.com/mlycore/awesome-kubecon/tree/master/Application%20Development#2019-kubeconeu-barcelona)
   * [Case Studies](https://github.com/mlycore/awesome-kubecon/tree/master/Case%20Studies#2019-kubeconeu-barcelona)
+  * [CICD](https://github.com/mlycore/awesome-kubecon/tree/master/CICD#2019-kubeconeu-barcelona)
+  * [Community](https://github.com/mlycore/awesome-kubecon/tree/master/Community#2019-kubeconeu-barcelona)
+  * [Customizing Extending Kubernetes](https://github.com/mlycore/awesome-kubecon/tree/master/Customizing%20Extending%20Kubernetes#2019-kubeconeu-barcelona)
   * [Keynotes](https://github.com/mlycore/awesome-kubecon/tree/master/Keynotes#2019-kubeconeu-barcelona)
   * [Lightning Talks](https://github.com/mlycore/awesome-kubecon/tree/master/Lightning%20Talks#2019-kubeconeu-barcelona)
   * [Machine Learning Data](https://github.com/mlycore/awesome-kubecon/blob/master/Machine%20Learning%20Data/README.md#2019-kubeconeu-barcelona)
