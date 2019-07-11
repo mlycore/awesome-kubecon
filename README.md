@@ -22,3 +22,7 @@ This is the briefcase of KubeCon Tags, aiming at providing fast search by speech
   * [Service Mesh](https://github.com/mlycore/awesome-kubecon/tree/master/Service%20Mesh#2019-kubeconeu-barcelona)
   * [Storage](https://github.com/mlycore/awesome-kubecon/tree/master/Storage#2019-kubeconeu-barcelona)
   * [Tutorials](https://github.com/mlycore/awesome-kubecon/tree/master/Tutorials#2019-kubeconeu-barcelona)
+
+* 2018 KubeConNA Seattle
+  * [Appplication Development](https://github.com/mlycore/awesome-kubecon/tree/master/Application%20Development#2018-kubeconna-seattle)
+  * [Birds of a Feather](https://github.com/mlycore/awesome-kubecon/tree/master/Birds%20of%20a%20Feather#2018-kubeconna-seattle)
