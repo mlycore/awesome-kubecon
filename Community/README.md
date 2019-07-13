@@ -19,3 +19,20 @@ Community
 * State of Kubernetes Contributor Community - Paris Pittman, Google [▶️](https://www.youtube.com/watch?v=a17FLjVDUOc) [ 📚]()
 * The Spotify Story: Moving from NIH to an Active CNCF Community Member - Jim Haughwout, Spotify [▶️](https://www.youtube.com/watch?v=OWq0X7OSCBQ) [ 📚](https://static.sched.com/hosted_files/kccnceu19/3a/The%20Spotify%20Story_%20Moving%20from%20NIH%20to%20an%20Active%20Community%20Member%20-%20Jim%20Haughwout%2C%20KubeCon%20Talk%202019.pptx)
 * What Goes in a Release: Kubernetes 1.14 in Code, Conversations, and Hearts - Maria Ntalla, Pivotal [▶️](https://www.youtube.com/watch?v=-VA3POM37Y0) [ 📚](https://static.sched.com/hosted_files/kccnceu19/dd/What_goes_in_a_release.pdf)
+
+
+## 2018 KubeConNA Seattle 
+
+* Public Technical Oversight Committee (TOC) Meeting – Moderated by Liz Rice, Aqua Security [▶️](https://www.youtube.com/watch?v=IeyiyWdIrz0) [ 📚]()
+* Enhancing Kubernetes: A Journey Through the KEP Process - Stephen Augustus &amp; Jaice Singer DuMars [▶️](https://www.youtube.com/watch?v=41Nj_117Tds) [ 📚](https://static.sched.com/hosted_files/kccna18/2e/KEP%20Journey.pdf)
+* Panel Discussion: Community Building from Scratch: Sharing Experience of CNCF and K8s Meetups [▶️](https://www.youtube.com/watch?v=SHnVBGIQOsc) [ 📚]()
+* Exploring Our User-Base Challenges: Getting Insight From StackOverflow‍ - Javier Salmeron, Bitnami [▶️](https://www.youtube.com/watch?v=KjnHyzkOgmI) [ 📚](https://static.sched.com/hosted_files/kccna18/8c/Exploring%20our%20user-base%20challenges_%20Getting%20insight%20from%20StackOverflow.pdf)
+* The Art of Documentation for Open Source Projects - Ben Hall, Katacoda [▶️](https://www.youtube.com/watch?v=Yjxupg-NKnA) [ 📚]()
+* Panel Discussion: Growing Diversity in Open Source Projects – Moderated by April Nassi, Google [▶️](https://www.youtube.com/watch?v=JjuiMlZEROA) [ 📚]()
+* The Cloud Native Meetup Community A-Z - Moderated by Kaslin Fields, Oracle [▶️](https://www.youtube.com/watch?v=j70XXe16ZN0) [ 📚]()
+* Kubernetes is Still Hard for App Developers, Let’s Fix That! - Aaron Schlesinger, Microsoft [▶️](https://www.youtube.com/watch?v=YKNisFkO2Ww) [ 📚](https://static.sched.com/hosted_files/kccna18/02/Slides.pdf)
+* Birds of a Feather: LGBTQIAP+ - The Final Minority Challange - Rob de Canha-Knight, SUSE [▶️](https://www.youtube.com/watch?v=BPM1DJRN8OE) [ 📚]()
+* Eco-Friendly ML: How the Kubeflow Ecosystem Bootstrapped Itself - Peter MacKinnon, Red Hat [▶️](https://www.youtube.com/watch?v=EVSfp8HGJXY) [ 📚](https://static.sched.com/hosted_files/kccna18/d7/Eco-Friendly%20ML.pdf)
+* Birds of a Feather: How to Train Your KubeAdmins - Stephany Spencer, USA TODAY NETWORK [▶️](https://www.youtube.com/watch?v=C0c6YQCgjIo) [ 📚]()
+* Noobernetes 101: Top 10 Questions We Get From New K8s Users - Karthik Gaekwad &amp; Neependra Khare [▶️](https://www.youtube.com/watch?v=Y7enbKBBDhA) [ 📚](https://static.sched.com/hosted_files/kccna18/3c/Noobernetes101.pdf)
+* Open Source, Open Community and Open Development - Craig Mcluckie, Heptio [▶️](https://www.youtube.com/watch?v=aEMzsbPMsYI) [ 📚]()
