@@ -27,3 +27,5 @@ This is the briefcase of KubeCon Tags, aiming at providing fast search by speech
   * [Appplication Development](https://github.com/mlycore/awesome-kubecon/tree/master/Application%20Development#2018-kubeconna-seattle)
   * [Birds of a Feather](https://github.com/mlycore/awesome-kubecon/tree/master/Birds%20of%20a%20Feather#2018-kubeconna-seattle)
   * [Case Studies](https://github.com/mlycore/awesome-kubecon/tree/master/Case%20Studies#2018-kubeconna-seattle)
+  * [Community](https://github.com/mlycore/awesome-kubecon/tree/master/Community#2018-kubeconna-seattle)
+  * [Customizing Extending Kubernetes](https://github.com/mlycore/awesome-kubecon/tree/master/Customizing%20Extending%20Kubernetes#2018-kubeconna-seattle)
