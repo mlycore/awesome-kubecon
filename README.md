@@ -29,3 +29,4 @@ This is the briefcase of KubeCon Tags, aiming at providing fast search by speech
   * [Case Studies](https://github.com/mlycore/awesome-kubecon/tree/master/Case%20Studies#2018-kubeconna-seattle)
   * [Community](https://github.com/mlycore/awesome-kubecon/tree/master/Community#2018-kubeconna-seattle)
   * [Customizing Extending Kubernetes](https://github.com/mlycore/awesome-kubecon/tree/master/Customizing%20Extending%20Kubernetes#2018-kubeconna-seattle)
+  * [Keynotes](https://github.com/mlycore/awesome-kubecon/tree/master/Keynotes#2018-kubeconna-seattle)
