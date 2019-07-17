@@ -16,3 +16,18 @@ Machine Learning Data
 * Managing Machine Learning in Production with Kubeflow and DevOps - David Aronchick, Microsoft [▶️](https://www.youtube.com/watch?v=lu5zHvpQeSI) [ 📚](https://static.sched.com/hosted_files/kccnceu19/12/Managing%20Machine%20Learning%20in%20Production%20with%20Kubeflow%20and%20MLOps.pdf)
 * The Data Analytics Platform or How to Make Data Science in a Box Possible - Krzysztof Adamski [▶️](https://www.youtube.com/watch?v=8cE9ppbnDPs) [ 📚](https://static.sched.com/hosted_files/kccnceu19/65/ING%20Data%20Analytics%20Platform.pdf)
 
+
+## 2018 KubeConNA Seattle 
+
+* Demystifying Data-Intensive Systems On Kubernetes - Alena Hall, Microsoft [▶️](https://www.youtube.com/watch?v=KYYYLNGTcX8) [ 📚](https://static.sched.com/hosted_files/kccna18/d4/Demystifying%20Data-Intensive%20Systems%20on%20Kubernetes.pdf)
+* Enterprise Machine Learning on K8s: Lessons Learned and the Road... - Timothy Chen &amp; Tristan Zajonc [▶️](https://www.youtube.com/watch?v=ZFn1OXG-4tM) [ 📚](https://static.sched.com/hosted_files/kccna18/94/Enterprise%20Machine%20Learning%20on%20K8s%20-%20Lessons%20Learned%20and%20the%20Road%20Ahead.pdf)
+* Kafka on Kubernetes - From Evaluation to Production at Intuit - Shrinand Javadekar, Intuit [▶️](https://www.youtube.com/watch?v=1SBxxMzlLAc) [ 📚]()
+* Machine Learning as Code: and Kubernetes with Kubeflow - Jason &quot; Jay&quot; Smith &amp; David Aronchick [▶️](https://www.youtube.com/watch?v=VXrGp5er1ZE) [ 📚](https://static.sched.com/hosted_files/kccna18/f5/External%20Kubecon%20NA%20%28Seattle%29%202018.pdf)
+* Machine Learning Model Serving and Pipeline Using KNative - Animesh Singh &amp; Tommy Li, IBM [▶️](https://www.youtube.com/watch?v=YpiPG8emKgg) [ 📚]()
+* Natural Language Code Search for GitHub Using Kubeflow - Jeremy Lewi, Google &amp; Hamel Husain, GitHub [▶️](https://www.youtube.com/watch?v=SF77UBvfTHU) [ 📚](https://static.sched.com/hosted_files/kccna18/f2/%5Bpublic%5D%20Kubecon%202018%20NACode%20Search%20Presentation.pdf)
+* Nezha: A Kubernetes Native Big Data Accelerator For Machine Learning - Huamin Chen &amp; Yuan Zhou [▶️](https://www.youtube.com/watch?v=Yck06qnfJVQ) [ 📚](https://static.sched.com/hosted_files/kccna18/96/kubecon-18-nezha.pdf)
+* Predictive Application Scaling with Prometheus and ML - Chris Dutra, Schireson [▶️](https://www.youtube.com/watch?v=xcK--dJn55g) [ 📚](https://static.sched.com/hosted_files/kccna18/35/ProML-Scaling.pdf)
+* Real-time Vision Processing on Kubernetes: Working with Data Locality - Yisui Hu, Google [▶️](https://www.youtube.com/watch?v=pFuHTmNsJ6s) [ 📚](https://static.sched.com/hosted_files/kccna18/85/Real-time%20Vision%20Processing%20on%20Kubernetes.pdf)
+* Scaling AI Inference Workloads with GPUs and Kubernetes - Renaud Gaubert &amp; Ryan Olson, NVIDIA [▶️](https://www.youtube.com/watch?v=13p4sZRKtwE) [ 📚](https://static.sched.com/hosted_files/kccna18/5d/Kubecon%20US%202018.pdf)
+* Using Kubernetes to Offer Scalable Deep Learning on Alibaba Cloud - Kai Zhang &amp; Yang Che, Alibaba [▶️](https://www.youtube.com/watch?v=XMYuz_dM0jY) [ 📚](https://static.sched.com/hosted_files/kccna18/ce/Using%20Kubernetes%20to%20offer%20scalable%20deep%20learning%20on%20Alibaba%20Cloud%20-%20final.pdf)
+* Why Data Scientists Love Kubernetes - Sophie Watson &amp; William Benton, Red Hat [▶️](https://www.youtube.com/watch?v=frQeK8xo9Ls) [ 📚](https://static.sched.com/hosted_files/kccna18/dd/kubecon-2018-pdf.pdf)
