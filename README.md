@@ -33,3 +33,4 @@ This is the briefcase of KubeCon Tags, aiming at providing fast search by speech
   * [Lightning Talks](https://github.com/mlycore/awesome-kubecon/tree/master/Lightning%20Talks#2018-kubeconna-seattle)
   * [Machine Learning Data](https://github.com/mlycore/awesome-kubecon/tree/master/Machine%20Learning%20Data#2018-kubeconna-seattle)
   * [Maintainer Track](https://github.com/mlycore/awesome-kubecon/tree/master/Maintainer%20Track#2018-kubeconna-seattle)
+  * [Multi Cluster](https://github.com/mlycore/awesome-kubecon/tree/master/Multi%20Cluster#2018-kubeconna-seattle)
