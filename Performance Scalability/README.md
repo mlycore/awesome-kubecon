@@ -13,3 +13,56 @@ Performance Scalability
 * Where&#39;s My Pod, Already? A Tale of Cold-Start Struggles on Kubernetes - Gregory Haynes, IBM [▶️](https://www.youtube.com/watch?v=aFbh_BOGcjs) [ 📚]()
 * Fool-Proof Kubernetes Dashboards for Sleep-Deprived Oncalls - David Kaltschmidt, Grafana Labs  [▶️](https://www.youtube.com/watch?v=YE2aQFiMGfY) [ 📚]()
 * Inside the CNCF Project Security Reviews - Justin Cormack, Docker [▶️](https://www.youtube.com/watch?v=0BkKpsrUo5k) [ 📚](https://static.sched.com/hosted_files/kccnceu19/aa/Kubecon%20EU%20security%20reviews.pdf)
+
+## 2019 KubeConNA San Diego
+
+* Implementing a Consumer Focused SLA for a Kubernetes Based PaaS - Shrenik Dedhia, Box [▶️]() [ 📚]()
+
+* Did Kubernetes Make My p95s Worse? - Jian Cheung & Stephen Chan, Airbnb [▶️]() [ 📚]()
+
+* NHD - A Topology-Aware Scheduler for K8s for Low-Latency & HPC Applications - Cliff Burdick, ViaSat [▶️]() [ 📚]()
+
+* How Container Networking Affects Database Performance - Tyler Duzan & Vadim Tkachenko, Percona [▶️]() [ 📚]()
+
+* Throttling: New Developments in Application Performance with CPU Limits - Dave Chiluk, Indeed [▶️]() [ 📚]()
+
+* How Ancestry Got Kubernetes to Run 2x Better Per Dollar Using AI - Darek Gajewski, Ancestry [▶️]() [ 📚]()
+
+* Ready to Serve! Speeding-Up Startup Time of Istio-Powered Workloads - Michal Malka & Etai Lev-Ran, IBM [▶️]() [ 📚]()
+
+* Staying in Tune: Optimize Kubernetes for Stability and Utilization - Randy Johnson & Koushik Radhakrishnan, VMware [▶️]() [ 📚]()
+
+   
+
+## 2019 KubeConCN Shanghai
+
+* Go FaaSter: Cold Start Optimization in a Serverless Platform - Scott Zhou & Yanbo Li, Tencent[▶️]() [ 📚]()
+
+* How Should You Effectively Use etcd Metrics - Wenjia Zhang & Jingyi Hu, Google[▶️]() [ 📚]()
+
+* Benchmark Your Cloud Native Database - Josh Berkus, Red Hat[▶️]() [ 📚]()
+
+* Understanding Scalability and Performance in the Kubernetes Master - Xingyu Chen & Fansong Zeng, Alibaba[▶️]() [ 📚]()
+
+* Istio Performance and Best Practices in Large Scale Kubernetes Cluster - Guang Ya Liu & Chun Lin Yang, IBM[▶️]() [ 📚]()
+
+   
+
+## 2018 KubeConNA  Seattle
+
+* gRPC Performance; Tuning Applications and Libraries - Noah Eisen, Google[▶️]() [ 📚]()
+
+* Got a Need for Speed? Accelerate Your Prometheus Dashboard Using Trickster - Shilla Saebi & James Ranson, Comcast[▶️]() [ 📚]()
+
+* eBPF Powered Distributed Kubernetes Performance Analysis - Lorenzo Fontana, InfluxData[▶️]() [ 📚]()
+
+* Encoding 250,000 Songs a Day with batch/v1 Jobs - Leigh Capili & John Slivka, Beatport[▶️]() [ 📚]()
+
+* Performance Testing Ingress for Internet-Scale Workloads - Alexander Brand, Heptio[▶️]() [ 📚]()
+
+* Automated Kubernetes Scalability Testing - Sebastian Jug & Naga Ravi Chaitanya Elluri, Red Hat[▶️]() [ 📚]()
+
+   
+
+
+

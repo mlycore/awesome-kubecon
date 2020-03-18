@@ -14,3 +14,100 @@ Serverless
 * Serverless is Interesting But FaaS is Not Enough - Jonas Bonér, Lightbend Inc. [▶️](https://www.youtube.com/watch?v=J3PyYmdTsnQ) [ 📚](https://static.sched.com/hosted_files/kccnceu19/0a/Towards%20Stateful%20Serverless.pdf)
 * Surviving Serverless Battle By Secure Runtime, CRI and RuntimeClass - Xiaoyu Zhang &amp; Lei Zhang [▶️](https://www.youtube.com/watch?v=2_je65FCltk) [ 📚](https://static.sched.com/hosted_files/kccnceu19/81/Surviving%20Serverless%20Battle%20By%20Secure%20Runtime%2C%20CRI%20and%20RuntimeClass.pdf)
 * The Serverless Landscape and Event Driven Futures - Dee Kumar, CNCF [▶️](https://www.youtube.com/watch?v=feo-UUPyzSI) [ 📚](https://static.sched.com/hosted_files/kccnceu19/84/Serverless.pdf)
+
+## 2019 KubeConNA San Diego
+
+* KubeFlow’s Serverless Component: 10x Faster, a 1/10 of the Effort - Orit Nissan-Messing, Iguazio [▶️]() [ 📚]()
+
+* OpenFaaS Cloud + Linkerd: A Secure, Multi-Tenant Serverless Platform - Charles Pretzer, Buoyant & Alex Ellis, OpenFaaS, LTD [▶️]() [ 📚]()
+
+* Scaling Your Cluster (Both Ways) - Scott Coulton & Patrick Chanezon, Microsoft [▶️]() [ 📚]()
+
+* Serverless Platform for Large Scale Mini-Apps: From Knative to Production - Yitao Dong & Ke Wang, Ant Financial [▶️]() [ 📚]()
+
+* KEDA: Event Driven and Serverless Containers in Kubernetes - Jeff Hollan, Microsoft [▶️]() [ 📚]()
+
+* Cloud Native Smart Contract with Knative - Jay Guo & Ying Chun Guo, IBM [▶️]() [ 📚]()
+
+ 
+
+## 2019 KubeConCN Shanghai
+
+* WebAssembly, Serverless, and the Cloud - Kevin Hoffman, Capital One Bank [▶️]() [ 📚]()
+
+* Evolving Deep Learning Platform with Knative - Ti Zhou, Baidu [▶️]() [ 📚]()
+
+* Serverless: Building a WeChat Mini-Program with 100 Million Users in 7 days - Tinafang & Masonlu, Tencent [▶️]() [ 📚]()
+
+* Enable Serverless Metrics in Apache OpenWhisk on Kubernetes with Prometheus - Ying Chun Guo, IBM [▶️]() [ 📚]()
+
+* Building Cloud Integration Applications Through Knative and Apache Camel - Willem Jiang & Longchun Zhang, Huawei [▶️]() [ 📚]()
+
+ 
+
+## 2018 KubeConEU  Copenhagen
+
+* The Serverless and Event-Driven Future - Austen Collins, Serverless (Intermediate Skill Level) (Slides Attached) [▶️]() [ 📚]()
+
+* Function Composition in a Serverless World - Erwin van Eyk & Timirah James, Platform9 (Intermediate Skill Level) (Slides Attached) [▶️]() [ 📚]()
+
+* Securing Serverless Functions via Kubernetes Objects - Sebastien Goasguen, Bitnami (Advanced Skill Level) (Slides Attached) [▶️]() [ 📚]()
+
+* Operating a Global-Scale FaaS on Top of Kubernetes - Chad Arimura & Matt Stephenson, Oracle (Any Skill Level) [▶️]() [ 📚]()
+
+* Apache OpenWhisk on Kubernetes: Building a Production-Ready Serverless Stack on and for Kubernetes - David Grove, IBM Research (Any Skill Level) (Slides Attached) [▶️]() [ 📚]()
+
+* Convergence of Serverless APIs & Compute - Sarah Allen, Google (Intermediate Skill Level) [▶️]() [ 📚]()
+
+ 
+
+## 2018 KubeConNA  Seattle
+
+* How to Build Deep Learning Inference Through Knative Serverless Framework - Huamin Chen & Yehuda Sadeh-Weinraub, Red Hat [▶️]() [ 📚]()
+
+* Running Serverless HPC Workloads on Top of Kubernetes and Jupyter Notebooks - Christopher Woods, University of Bristol [▶️]() [ 📚]()
+
+* T-Mobile Store Locator Serverless Journey with Knative and Kubernetes - Ram Gopinathan, T-Mobile [▶️]() [ 📚]()
+
+* Knative: Scaling From 0 to Infinity - Joseph Burnett & Mark Chmarny, Google [▶️]() [ 📚]()
+
+* Birds of a Feather: Knative - Jessie Zhu, Google [▶️]() [ 📚]()
+
+* Digital Transformation of Vision Banco Paraguay with Serverless Functions - Alex Ellis, VMware & Patricio Diaz, Vision Banco SAECA [▶️]() [ 📚]()
+
+ 
+
+## 2018 KubeConCN Shanghai
+
+* Serverless Performance on a Budget - Erwin van Eyk, Platform9 [▶️]() [ 📚]()
+
+* Serverless Workflow: Key to Wide Serverless Adoption - Cathy Zhang, Huawei [▶️]() [ 📚]()
+
+* Serverless Computing for E-Commerce Applications on JD Kubernetes Platform - Yuan Chen & Xin Tong, JD.com [▶️]() [ 📚]()
+
+* Botless: A Serverless Chatbot Framework - Scott Nichols, Google [▶️]() [ 📚]()
+
+* Serverless Kubernetes: Container in Cloud Native Way - Wei Zhang, Alibaba [▶️]() [ 📚]()
+
+* Smart Workload: Automated Routing, Scaling of K8s and Serverless Functions - Enlin Xu, Turbonomic [▶️]() [ 📚]()
+
+ 
+
+
+
+## 2017 KubeConNA Texas 
+
+* State of Serverless [B] - Mark Peek, VMware & Doug Davis, IBM [▶️]() [ 📚]()
+
+* Building Serverless Application Pipelines [A] - Sebastien Goasguen, Bitnami [▶️]() [ 📚]()
+
+* FaaS and Furious - 0 to Serverless in 60 Seconds, Anywhere - Alex Ellis, ADP [▶️]() [ 📚]()
+
+* Fission: Serverless Functions for Kubernetes [B] - Soam Vasani, Platform9 Systems [▶️]() [ 📚]()
+
+* Pontoon: An Enterprise Grade Serverless Framework Using Kubernetes – As Used in VMware Cloud Services [I] - Kumar Gaurav & Mageshwaran Rajendran, VMware [▶️]() [ 📚]()
+
+* Building and Running an Enterprise-grade Serverless Platform on Kubernetes - Ying Huang & Quinton Hoole, Huawei [▶️]() [ 📚]()
+
+ 
+

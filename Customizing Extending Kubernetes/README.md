@@ -15,7 +15,100 @@ Customizing Extending Kubernetes
 * Kanary - Automated and Integrated Canary Testing Using CRD... - David Benque &amp; Cédric Lamorinière [▶️](https://www.youtube.com/watch?v=mmvSzDEw-JI) [ 📚](https://static.sched.com/hosted_files/kccnceu19/f7/Kanary_KubeCon-Europe-2019.pdf)
 
 
-## 2018 KubeConNA Seattle 
+
+## 2019 KubeConNA San Diego
+
+* Only Slightly Bent: Uber’s Kubernetes Migration Journey for Microservices - Yunpeng Liu, Uber    [▶️]() [ 📚]()
+
+* Hardware-based KMS Plug-in to Protect Secrets in Kubernetes - Raghu Yeluri & Haidong Xia, Intel  [▶️]() [ 📚]()
+
+* Russian Doll: Extending Containers with Nested Processes - Christie Wilson & Jason Hall, Google
+
+* Admission Webhooks: Configuration and Debugging Best Practices - Haowei Cai, Google  [▶️]() [ 📚]()
+
+* Polymorphic Reconcilers in Kubernetes - Advanced DuckTyping - Scott Nichols & Matt Moore, Google  [▶️]() [ 📚]()
+
+* Practical Way to Build Kubernetes Native Java Controller - Zibo He & Min Jin, Ant Financial  [▶️]() [ 📚]()
+
+* Growth and Design Patterns in the Extensions Ecosystem - Eric Tune, Google  [▶️]() [ 📚]()
+
+* Emitting, Consuming, and Presenting: The Event Lifecycle - Jesse Dearing, VMware  [▶️]() [ 📚]()
+
+* Is There a Place for Performance Sensitive Workloads in Kubernetes? - Gergely Csatari & Levente Kale, Nokia  [▶️]() [ 📚]()
+
+* A Toolkit for Simulating Kubernetes Scheduling at Scale - Yuan Chen, JD.com  [▶️]() [ 📚]()
+
+* Introducing Metal³: Kubernetes Native Bare Metal Host Management - Russell Bryant & Doug Hellmann, Red Hat  [▶️]() [ 📚]()
+
+* Panel: State of the Operators: Hubs, Frameworks, SDKs, and Beyond - Diane Mueller, Red Hat, Sonam Saxena, Google, & Andre Tost, IBM  [▶️]() [ 📚]()
+
+* Making Plugins Mainstream: Developing a Plugin Manager for Kubectl - Ahmet Alp Balkan, Google  [▶️]() [ 📚]()
+
+* K3s Under the Hood: Building a Product-grade Lightweight Kubernetes Distro - Darren Shepherd, Rancher Labs  [▶️]() [ 📚]()
+
+* Evolving the Kubernetes Ingress APIs to GA and Beyond - Christopher M Luciano, IBM & Bowei Du, Google  [▶️]() [ 📚]()
+
+* WIGM and Why You Want an Operator - Carson Anderson, Weave  [▶️]() [ 📚]()
+
+* Release the Kraken: Bring Sidecar Containers to Next Level - Di Xu, Ant Financial & Xiaoyu Zhang, Alibaba  [▶️]() [ 📚]()
+
+   
+
+## 2019 KubeConCN Shanghai
+
+* To Crd, or Not to Crd, That is the Question - Ed King & Sam Gunaratne, Pivotal  [▶️]() [ 📚]()
+
+* Auto Operation of Hundreds of K8s Clusters in Yahoo Japan Corporation - Cheng Chen & Hiroki Katsuta, Yahoo Japan Corporation  [▶️]() [ 📚]()
+
+* Extending Kubernetes Scheduler for Multi-Cluster and Multi-Cloud Workloads - Illya Chekrygin, Upbound  [▶️]() [ 📚]()
+
+* Extending Kubernetes with Storage Transformers - Andrew Lytvynov, Google  [▶️]() [ 📚]()
+
+* CodeReady Containers; Simplified Deployment and Cluster API for Desktops - Gerard Braad, Red Hat  [▶️]() [ 📚]()
+
+* Network Bandwidth-Aware Kubernetes Cluster - Yifeng Xiao & Yang Yu, VMware  [▶️]() [ 📚]()
+
+* Debugging Kubernetes Controllers from IDE - Surendhar Ravichandran, F5 Networks  [▶️]() [ 📚]()
+
+* No More Chaos: Audit and Inspect Kubernetes at Scale - 陈杰, 阿里云 & 马金晶, 蚂蚁金服（杭州）网络技术有限公司  [▶️]() [ 📚]()
+
+* Proxy Service: A New Network Traffic Abstraction in Kubernetes - Walter Fender & Yongkun Gui, Google  [▶️]() [ 📚]()
+
+* ngressRoute: A Path Towards a Better Ingress Object for Kubernetes - David Cheney, VMware
+
+  NFD and My Adventure in the Cloud Native Project Jungle - Markus Lehtonen, Intel  [▶️]() [ 📚]()
+
+  
+
+## 2018 KubeConEU  Copenhagen
+
+* Higher-Order Deployments: Reducing Boilerplate With Kubernetes Custom Resource Definitions - James Bowes, Manifold (Intermediate Skill Level) (Slides Attached)  [▶️]() [ 📚]()
+
+* Writing Kube Controllers for Everyone - Maciej Szulik, Red Hat (Beginner Skill Level) (Slides Attached)  [▶️]() [ 📚]()
+
+* Kubernetes-style APIs of the Future - Daniel Smith, Google (Any Skill Level) (Slides Attached)  [▶️]() [ 📚]()
+
+* Writing Kubernetes Controllers for CRDs: Challenges, Approaches and Solutions - Alena Prokharchyk, Rancher Labs, Inc. (Intermediate Skill Level) (Slides Attached) [▶️]() [ 📚]()
+
+* Building a Kubernetes Scheduler using Custom Metrics - Mateo Burillo, Sysdig (Intermediate Skill Level) (Slides Attached) [▶️]() [ 📚]()
+
+* Horizontal Pod Autoscaler Reloaded - Scale on Custom Metrics - Maciej Pytel, Google & Solly Ross, Red Hat (Intermediate Skill Level) [▶️]() [ 📚]()
+
+* Using kubectl to Run your End-to-End Tests - Amit Kumar Das, MayaData & Uday Kiran, CloudByte (Intermediate Skill Level) (Slides Attached) [▶️]() [ 📚]()
+
+* Monitoring: Follow the Data from the Darkest Corners of Kubernetes - Piotr Szczesniak, Google & Frederic Branczyk, CoreOS (Any Skill Level) (Slides Attached) [▶️]() [ 📚]()
+
+* Kubectl Plugins 101 - Jonathan Berkhahn, IBM & Carolyn Van Slyck, Microsoft (Intermediate Skill Level) (Slides Attached) [▶️]() [ 📚]()
+
+* Controllers: Lambda Functions for Extending your Infrastructure - Ross Guarino & Terin Stock, Cloudflare (Intermediate Skill Level) (Slides Attached) [▶️]() [ 📚]()
+
+* Everything you Need to Know about Using GPUs with Kubernetes - Rohit Agarwal, Google (Intermediate Skill Level) (Slides Attached) [▶️]() [ 📚]()
+
+* Building a Fault-Tolerant Custom Resources Controller on Kubernetes - Morgan Bauer & Srinivas Brahmaroutu, IBM Corp. (Intermediate Skill Level) (Slides Attached) [▶️]() [ 📚]()
+
+   
+
+## 2018 KubeConNA Seattle
 
 * Building your own PostgreSQL-as-a-Service on Kubernetes. - Alexander Kukushkin, Zalando SE [▶️](https://www.youtube.com/watch?v=G8MnpkbhClc) [ 📚](https://static.sched.com/hosted_files/kccna18/1d/Building%20your%20own%20PostgreSQL-as-a-Service%20on%20Kubernetes.pdf)
 * Peloton - A Unified Scheduler for Web-scale Workloads on Mesos - Min Cai &amp; Nitin Bahadur [▶️](https://www.youtube.com/watch?v=USgbj87Ztlk) [ 📚](https://static.sched.com/hosted_files/kccna18/29/Peloton_%20KubeCon%202018.pdf)
@@ -35,3 +128,33 @@ Customizing Extending Kubernetes
 * Custom Controllers to the Rescue: Tailoring API Objects to Your... - Stephen Chan &amp; Davi Arnaut [▶️](https://www.youtube.com/watch?v=ZUuuEjbaqVs) [ 📚]()
 * Airflow on Kubernetes: Dynamic Workflows Simplified - Daniel Imberman, Bloomberg &amp; Barni Seetharaman [▶️](https://www.youtube.com/watch?v=VrsVbuo4ENE) [ 📚](https://static.sched.com/hosted_files/kccna18/a8/Airflow%20Kubecon%20Talk%20Final.pdf)
 * Towards a Vendor Neutral Kubernetes - Andrew Kim, DigitalOcean [▶️](https://www.youtube.com/watch?v=vaDtA17qHcI) [ 📚](https://static.sched.com/hosted_files/kccna18/de/Towards%20a%20Vendor%20Neutral%20Kubernetes.pdf)
+
+
+
+## 2018 KubeConCN Shanghai
+
+* Higher-Order Deployments: Reducing Boilerplate With Kubernetes Custom Resource Definitions - James Bowes, Manifold (Intermediate Skill Level) (Slides Attached)  [▶️]() [ 📚]()
+
+* Writing Kube Controllers for Everyone - Maciej Szulik, Red Hat (Beginner Skill Level) (Slides Attached)  [▶️]() [ 📚]()
+
+* Kubernetes-style APIs of the Future - Daniel Smith, Google (Any Skill Level) (Slides Attached)  [▶️]() [ 📚]()
+
+* Writing Kubernetes Controllers for CRDs: Challenges, Approaches and Solutions - Alena Prokharchyk, Rancher Labs, Inc. (Intermediate Skill Level) (Slides Attached)  [▶️]() [ 📚]()
+
+* Building a Kubernetes Scheduler using Custom Metrics - Mateo Burillo, Sysdig (Intermediate Skill Level) (Slides Attached)  [▶️]() [ 📚]()
+
+* Horizontal Pod Autoscaler Reloaded - Scale on Custom Metrics - Maciej Pytel, Google & Solly Ross, Red Hat (Intermediate Skill Level)  [▶️]() [ 📚]()
+
+* Using kubectl to Run your End-to-End Tests - Amit Kumar Das, MayaData & Uday Kiran, CloudByte (Intermediate Skill Level) (Slides Attached)  [▶️]() [ 📚]()
+
+* Monitoring: Follow the Data from the Darkest Corners of Kubernetes - Piotr Szczesniak, Google & Frederic Branczyk, CoreOS (Any Skill Level) (Slides Attached)  [▶️]() [ 📚]()
+
+* Kubectl Plugins 101 - Jonathan Berkhahn, IBM & Carolyn Van Slyck, Microsoft (Intermediate Skill Level) (Slides Attached)  [▶️]() [ 📚]()
+
+* Controllers: Lambda Functions for Extending your Infrastructure - Ross Guarino & Terin Stock, Cloudflare (Intermediate Skill Level) (Slides Attached)  [▶️]() [ 📚]()
+
+* Everything you Need to Know about Using GPUs with Kubernetes - Rohit Agarwal, Google (Intermediate Skill Level) (Slides Attached)  [▶️]() [ 📚]()
+
+* Building a Fault-Tolerant Custom Resources Controller on Kubernetes - Morgan Bauer & Srinivas Brahmaroutu, IBM Corp. (Intermediate Skill Level) (Slides Attached)  [▶️]() [ 📚]()
+
+   

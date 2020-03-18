@@ -15,6 +15,48 @@ CICD
 * Streamlining Kubernetes Application CI/CD with Bazel - Gregg Donovan &amp; Chris Love [▶️](https://www.youtube.com/watch?v=DTvXa-iqrfA) [ 📚](https://static.sched.com/hosted_files/kccnceu19/41/Bazel%20Kubecon%202019.pdf)
 
 
+
+## 2019 KubeConNA San Diego
+
+* Building Reusable DevSecOps Pipelines on a Secure Kubernetes Platform - Steven Terrana, Booz Allen Hamilton & Michael Ducy, Sysdig [▶️]() [ 📚]()
+* Applying Policy Throughout The Application Lifecycle with Open Policy Agent - Gareth Rushgrove, Snyk[▶️]() [ 📚]()
+* Managing Helm Deployments with Gitops at CERN - Ricardo Rocha, CERN [▶️]() [ 📚]()
+* Kubernetes in Your 4x4 – Continuous Deployment Directly to the Car - Rafal Kowalski, Grape Up [▶️]() [ 📚]()
+* Mario’s Adventures in Tekton Land - Vincent Demeester, Red Hat & Andrea Frittoli, IBM [▶️]() [ 📚]()
+* A Series of Fortunate CloudEvents - Ian Coffey, Salesforce [▶️]() [ 📚]()
+* Leveling Up Your CD: Unlocking Progressive Delivery on Kubernetes - Daniel Thomson & Jesse Suen, Intuit [▶️]() [ 📚]()
+* Krane: A Developer-Centric Deploy Tool - Daniel Turner & Katrina Verey, Shopify [▶️]() [ 📚]()
+* Panel: GitOps User Stories - Tamao Nakahara, Weaveworks; Javeria Khan, Palo Alto Networks; Hubert Chen, Branch; Stefan Prodan, Weaveworks; & Edward Lee, Intuit [▶️]() [ 📚]()
+* Developer Experience on CD: Build a CD Platform to K8s that Developers Love - Euccas Chen & Tobi Ogunnaike, Pinterest [▶️]() [ 📚]()
+
+## 2019 KubeConCN Shanghai
+
+* Release Engineering as a Service - The Art of Integrating with K8s - Maryam Labib & Ramya Shenoy, Pivotal [▶️]() [ 📚]()
+
+* Deployment and Management in the Age of Cloud Integrated Applications - Neil Peterson, Microsoft [▶️]() [ 📚]()
+
+* E2E Testing: Real Developers Don't Test... But They Should - Patrick Ohly, Intel [▶️]() [ 📚]()
+
+* Serverless Jenkins on Kubernetes - Jenkins X - RunZe Xia & Fang Du, Beijing Yunify Technology Co., Ltd. [▶️]() [ 📚]()
+
+* (k)Native K8s CI/CD Platform - Shash Reddy, Pivotal [▶️]() [ 📚]()
+
+* Promoting Kubernetes CI/CD to the Next Level - Tim Pouyer, IBM [▶️]() [ 📚]()
+
+  
+
+## 2018 KubeConEU  Copenhagen 
+
+* Git-push Workflows (using git hooks) for Deploying Applications on Kubernetes - Tanmai Gopal & Vamshi Surabhi Rao, Hasura (Intermediate Skill Level) (Slides Attached) [▶️]() [ 📚]()
+* Continuous Delivery Meets Custom Kubernetes Controller: A Declarative Configuration Approach to CI/CD - Suneeta Mall & Simon Cochrane, Nearmap (Intermediate Skill Level) (Slides Attached) [▶️]() [ 📚]()
+* Building Docker Images Without Docker - Matt Rickard, Google (Intermediate Skill Level) (Slides Attached) [▶️]() [ 📚]()
+* Continuously Deliver your Kubernetes Infrastructure - Mikkel Larsen, Zalando SE (Advanced Skill Level) (Slides Attached) [▶️]() [ 📚]()
+* Experience Report - Evolving a Continuous Delivery Workflow to Kubernetes using Spinnaker - Gard Rimestad, Schibsted & Øyvind Ingebrigtsen Øvergaard, Finn.no (Intermediate Skill Level) (Slides Attached) [▶️]() [ 📚]()
+* Jenkins X: Easy CI/CD for Kubernetes - James Strachan, CloudBees (Intermediate Skill Level) [▶️]() [ 📚]()
+
+ 
+
+
 ## 2018 KubeConNA Seattle 
 
 * CI/CD, Kubernetes, and Databases: Better Together - Niraj Tolia &amp; Tom Manville, Kasten [▶️](https://www.youtube.com/watch?v=WyRzBt65_zQ) [ 📚](https://static.sched.com/hosted_files/kccna18/e1/CICD%20K8s%20And%20DBs%20Better%20Together.pdf)
@@ -29,3 +71,22 @@ CICD
 * Jenkins X: Continuous Delivery for Kubernetes - Carlos Sanchez, CloudBees [▶️](https://www.youtube.com/watch?v=IDEa8seAzVc) [ 📚](https://static.sched.com/hosted_files/kccna18/ea/Jenkins%20X_%20Continuous%20Delivery%20for%20Kubernetes.pdf)
 * Continuous Delivery on Platforms is Better for Your Brain (and Business!) - Daniel Jones [▶️](https://www.youtube.com/watch?v=TBrusQSxZWw) [ 📚]()
 * Automating Enterprise Governance Using the CI/CD Pipeline - Satyam Agarwala &amp; Mark Angrish [▶️](https://www.youtube.com/watch?v=OGAWi9PlDrA) [ 📚](https://static.sched.com/hosted_files/kccna18/eb/ANZ%20-%20Kubecon.pdf)
+
+
+
+## 2018 KubeConCN Shanghai
+
+* Kubernetes Native DevOps Practice - Lei Wang, TenxCloud [▶️]() [ 📚]()
+
+* Testing Kubernetes CRDs - Christie Wilson, Google [▶️]() [ 📚]()
+
+* Securing the Perimeter - CFCR/CFAR Chain of Custody With CI/CD Pipelines - Keith Strini & Shaozhen Ding, Pivotal [▶️]() [ 📚]()
+
+* Kubernetes CICD Hacks with MicroK8s and Kubeflow - Land Lu & Zhang Lei Mao, Canonical [▶️]() [ 📚]()
+
+* Compliance as Code - Lessons Learned From Regulated Organizations - Sergiu Bodiu, Standard Chartered [▶️]() [ 📚]()
+
+* Let Developers and Operators Focus on What They Know Best - Rafal Gajdulewicz & Julie Zhuying Li, Google [▶️]() [ 📚]()
+
+   
+

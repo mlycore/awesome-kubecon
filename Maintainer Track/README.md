@@ -113,6 +113,225 @@ Maintainer Track
 * OpenTelemetry: Backwards Compatibility with... - Ben Sigelman, Bogdan Drutu &amp; Spiros Xanthos [▶️](https://www.youtube.com/watch?v=mvWwSkBq9sY) [ 📚]()
 * OpenTelemetry: Panel Discussion and Q&amp;A - Ben Sigelman, Morgan McClean &amp; Bogdan Drutu [▶️](https://www.youtube.com/watch?v=IdYZphA5S7s) [ 📚]()
 
+## 2019 KubeConNA San Diego
+
+* CNCF SIG-Security Intro - Sarah Allen, CNCF SIG-Security & Brandon Lum, IBM[▶️]() [ 📚]()
+* Intro to gRPC - Jayant Kolhe & Eric Anderson, Google[▶️]() [ 📚]()
+* Intro: Brigade - Matt Butcher & Radu Matei, Microsoft[▶️]() [ 📚]()
+* Intro: Kubernetes SIG PM - Stephen Augustus, VMware[▶️]() [ 📚]()
+* KubeEdge – Kubernetes Native Edge Computing Framework - Jason Wu & Sean Wang, Futurewei[▶️]() [ 📚]()
+* OPA Introduction & Community Update - Rita Zhang, Microsoft & Patrick East, Styra[▶️]() [ 📚]()
+* Securing the Software Supply Chain with in-toto - Santiago Torres-Arias & Justin Cappos, NYU[▶️]() [ 📚]()
+* SIG Cloud Provider Intro - Fabio Rapposelli, VMware & Nick Turner, Amazon[▶️]() [ 📚]()
+* The Release Team Shadow Program - Mentoring For the Future - Guinevere Saenger, GitHub & Lachlan Evenson, Microsoft[▶️]() [ 📚]()
+* Cortex 101: Horizontally Scalable Long Term Storage for Prometheus - Chris Marchbanks, Splunk[▶️]() [ 📚]()
+* Five Things You Didn’t Know You Could Do with SPIFFE and SPIRE - Andrew Jessup & Andrés Vega, Scytale[▶️]() [ 📚]()
+* How to Migrate a MySQL Database to Vitess - Sugu Sougoumarane & Morgan Tocker, PlanetScale[▶️]() [ 📚]()
+* Intro to Cloud Native Buildpacks - Terence Lee, Heroku & Emily Casey, Pivotal[▶️]() [ 📚]()
+* Intro to SIG Service Catalog - Jonathan Berkhahn, IBM & Mateusz Szostok, SAP[▶️]() [ 📚]()
+* Intro: Contributor Experience SIG - Elsie Phillips, Red Hat & Paris Pittman, Google[▶️]() [ 📚]()
+* Intro: Flux - Stefan Prodan & Alexis Richardson, Weaveworks[▶️]() [ 📚]()
+* Introduction to CRI-O - Mrunal Patel & Peter Hunt, Red Hat, Inc.[▶️]() [ 📚]()
+* Introduction to Virtual Kubelet – Featuring Titus by Netflix - Ria Bhatia, Microsoft & Sargun Dhillon, Netflix[▶️]() [ 📚]()
+* Cloud Provider Subproject AWS / User Group AWS - Cheng Pan, Amazon & Justin SB, Google[▶️]() [ 📚]()
+* Intro to Thanos: Scale Your Prometheus Monitoring With Ease - Lucas Serven, Red Hat & Dominic Green, Improbable[▶️]() [ 📚]()
+* Intro: Linkerd - William Morgan, Buoyant[▶️]() [ 📚]()
+* Introduction to Autoscaling - Marcin Wielgus & Vivek Bagade, Google[▶️]() [ 📚]()
+* Introduction to CNI, the Container Network Interface Project - Bryan Boreham, Weaveworks & Dan Williams, Red Hat[▶️]() [ 📚]()
+* Introduction to Windows Containers in Kubernetes - Michael Michael, VMware & Deep Debroy, Docker[▶️]() [ 📚]()
+* KubeVirt Intro: Virtual Machine Management on Kubernetes - Steve Gordon, Red Hat & Chandrakanth Jakkidi, F5[▶️]() [ 📚]()
+* SIG Usability: Intro and How to Get Started - Tasha Drew, VMware[▶️]() [ 📚]()
+* An Introduction to Helm - Matt Farina, Samsung SDS & Josh Dolitsky, Blood Orange[▶️]() [ 📚]()
+* CNCF Network SIG Intro & Deep-Dive - Lee Calcote, Layer5 & Matt Klein, Lyft[▶️]() [ 📚]()
+* Community Bridge BoF - Ihor Dvoretskyi, Cloud Native Computing Foundation & Shubhra Kar, Linux Foundation[▶️]() [ 📚]()
+* Fluentd: Cloud Native Logging - Yuta Iwama & Masahiro Nakagawa, Arm Treasure Data[▶️]() [ 📚]()
+* Intro to the Kubernetes Working Group for Multi-tenancy - Tasha Drew, VMware[▶️]() [ 📚]()
+* Intro: Harbor - Enterprise Cloud Native Artifact Registry - Steven Ren & Alex Xu, VMware[▶️]() [ 📚]()
+* Jaeger Intro - Yuri Shkuro, Uber Technologies & Pavol Loffay, Red Hat[▶️]() [ 📚]()
+* Service Discovery With Hybrid and Multi-Cloud: Introduction to CoreDNS - Yong Tang, MobileIron[▶️]() [ 📚]()
+* Using TUF to Mitigate Repository Compromises - Marina Moore, NYU & Justin Cappos, NYU[▶️]() [ 📚]()
+* Birds of a Feather: CNCF Project Maintainers - Amye Scavarda, Cloud Native Computing Foundation[▶️]() [ 📚]()
+* Birds of a Feather: SODA: The Path To Data Autonomy - Steven Tan, Futurewei & Anjaneya "Reddy" Chagam, Intel[▶️]() [ 📚]()
+* Dragonfly Intro: Plugin Framework and New Distribution Strategy - Haibing Zhou, eBay & Ben Ye[▶️]() [ 📚]()
+* Intro to Cloud Provider Azure - Rita Zhang & Craig Peters, Microsoft[▶️]() [ 📚]()
+* Intro to Kubernetes Sig-Architecture Subprojects - Davanum Srinivas, VMware & Jordan Liggitt, Google
+* Intro: CNCF CI - Lucina Stricko & Denver Williams, Vulk Coop[▶️]() [ 📚]()
+* Intro: Kubernetes SIG Apps - Adnan Abdulhussein, VMware & Matt Farina, Samsung SDS[▶️]() [ 📚]()
+* Intro: OpenEBS - Amit Kumar Das & Vishnu Itta, MayaData[▶️]() [ 📚]()
+* Kubernetes SIG Instrumentation - Intro - Frederic Branczyk, Red Hat & Piotr Szczesniak, Google[▶️]() [ 📚]()
+* Cloud Provider OpenStack Community Session - Kendall Nelson, OpenStack Foundation & Aditi Sharma, NEC[▶️]() [ 📚]()
+* Day 2 Operations with Windows Containers - Michael Michael, VMware & Patrick Lang, Microsoft[▶️]() [ 📚]()
+* Deep Dive: CNCF CI - W. Watson & Denver Williams, Vulk Coop[▶️]() [ 📚]()
+* KubeEdge Deep Dive - Sean Wang, FutureWei[▶️]() [ 📚]()
+* KubeVirt Deep Dive: Virtualized GPU Workloads on KubeVirt - David Vossel, Red Hat & Vishesh Tanksale, NVIDIA[▶️]() [ 📚]()
+* Performance Tuning and Day 2 Operations - Goutham Veeramachaneni, Grafana Labs[▶️]() [ 📚]()
+* SIG Testing Intro - Sean Chase & Erick Fejta, Google[▶️]() [ 📚]()
+* Using TUF and in-toto to Tighten the Release Process - Santiago Torres-Arias, NYU & Justin Cappos, NYU[▶️]() [ 📚]()
+* CNCF Research User Group - Bob Killen, University of Michigan[▶️]() [ 📚]()
+* Deep Dive into Autoscaling - Marcin Wielgus & Vivek Bagade, Google[▶️]() [ 📚]()
+* Deep Dive into Cloud Provider Azure - Pengfei Ni & Brendan Burns, Microsoft[▶️]() [ 📚]()
+* Deep Dive: Flux the GitOps Operator for Kubernetes - Stefan Prodan, Weaveworks[▶️]() [ 📚]()
+* Deep Dive: Harbor - Enterprise Cloud-native Artifact Registry - Steven Zou & Daniel Jiang, VMware[▶️]() [ 📚]()
+* Deep Dive: Prow - Steve Kuznetsov, Red Hat & Alvaro Aleman, Loodse[▶️]() [ 📚]()
+* gRPC Deep Dive: Prevent Your Service From Overtaking Itself - Lidi Zheng, Google[▶️]() [ 📚]()
+* Intro: Telepresence - Daniel Bryant & Rafael Schloming, Datawire[▶️]() [ 📚]()
+* Scaling SPIRE for Performance and Availability - Tyler Julian, Uber[▶️]() [ 📚]()
+* Future of the Moby Ecosystem: Maintainers, Contributors, Users - Avi Deitcher, Atomic Inc.; Gareth [▶️]() [ 📚]()
+* Rushgrove, Snyk; Roman Shaposhnik, ZEDEDA Inc.; Justin Cormack, Docker[▶️]() [ 📚]()
+* CRI-O: Under the Hood - Mrunal Patel, Red Hat, Inc. & Sascha Grunert, SUSE[▶️]() [ 📚]()
+* Deep Dive Into API Machinery - Antoine Pelisse, Google & Stefan Schimanski, Red Hat[▶️]() [ 📚]()
+* Deep Dive: CNI - Bryan Boreham, Weaveworks & Dan Williams, Red Hat[▶️]() [ 📚]()
+* Geo-partitioning with Vitess - Deepthi Sigireddi & Jitendra Vaidya, PlanetScale[▶️]() [ 📚]()
+* Intro: Scheduling SIG - Wei Huang, IBM & RaviSantosh Gudimetla, Red Hat[▶️]() [ 📚]()
+* Intro: SIG Cluster Lifecycle - Timothy St. Clair, VMware[▶️]() [ 📚]()
+* Introduction to the CNCF App Delivery SIG - Alois Reitbauer, Dynatrace & Lei Zhang, Alibaba[▶️]() [ 📚]()
+* Jaeger Deep Dive - Yuri Shkuro, Uber Technologies & Pavol Loffay, Red Hat[▶️]() [ 📚]()
+* SIG Release - Deep Dive: Release Engineering Subproject - Stephen Augustus, VMware & Hannes Hörl, Pivotal[▶️]() [ 📚]()
+* Birds of a Feather: Telecom User Group - Cheryl Hung & Dan Kohn, Cloud Native Computing Foundation; Taylor Carpenter, Vulk Coop[▶️]() [ 📚]()
+* Deep Dive: Apps SIG - Janet Kuo, Google & Kenneth Owens, Brex[▶️]() [ 📚]()
+* Deep Dive: Brigade - Matt Butcher & Kent Rancourt, Microsoft[▶️]() [ 📚]()
+* Going Beyond the Node – Using VK to Realize Crazy Ideas - Brian Goff & Deep Kapur , Microsoft[▶️]() [ 📚]()
+* Kubernetes SIG Instrumentation - Deep Dive - Han Kang & David Ashpole, Google[▶️]() [ 📚]()
+* Meet the Gears Behind Kubernetes APIs: Introduction to SIG API-Machinery - Federico Bongiovanni, Google[▶️]() [ 📚]()
+* SIG Service Catalog Deep-Dive - Jonathan Berkhahn, IBM & Mateusz Szostok, SAP[▶️]() [ 📚]()
+* SIG Usability: Deep Dive - Vallery Lancey, Lyft[▶️]() [ 📚]()
+* Deep Dive: Contributor Experience SIG - Christoph Blecker, Red Hat & Nikhita Raghunath, Loodse[▶️]() [ 📚]()
+* Deep Dive: Kind - Benjamin Elder, Google & Antonio Ojea Garcia, SUSE[▶️]() [ 📚]()
+* Deep Dive: Linkerd - Oliver Gould, Buoyant[▶️]() [ 📚]()
+* Fluent Bit: Logging and Data Processing on the Edge - Eduardo Silva, Arm Treasure Data & Masoud Koleini, Arm[▶️]() [ 📚]()
+* Helm 3 Deep Dive - Taylor Thomas, Microsoft Azure & Martin Hickey, IBM[▶️]() [ 📚]()
+* Intro to the CNCF SIG Storage - Quinton Hoole, Futurewei & Alex Chircop, StorageOS[▶️]() [ 📚]()
+* Intro: Prometheus - Matt Layher, Fastly & Ganesh Vernekar, Grafana Labs[▶️]() [ 📚]()
+* SIG Cloud Provider Deep Dive - Walter Fender, Google & Yassine Tijani, VMware[▶️]() [ 📚]()
+* CNCF SIG-Security Deep Dive - Jeyappragash Jeyakeerthi, CNCF SIG-Security & Zhipeng Huang, Huawei[▶️]() [ 📚]()
+* CoreDNS Deep Dive - John Belamaric, Google[▶️]() [ 📚]()
+* Deep Dive: Cloud Native Buildpacks - Joe Kutner, Heroku & Stephen Levine, Pivotal[▶️]() [ 📚]()
+* Deep Dive: Kubernetes Working Group for Multi-tenancy - Sanjeev Rampal, Cisco & Adrian Ludwin, Google[▶️]() [ 📚]()
+* Intro to Longhorn: Open Source Cloud-Native Distributed Block Storage Built On and For K8s - Sheng Yang, Rancher Labs[▶️]() [ 📚]()
+* Intro: vSphere Cloud Provider and CSI - Fabio Rapposelli, VMware[▶️]() [ 📚]()
+* Minikube - Thomas Strömberg & Medya Ghazizadeh, Google[▶️]() [ 📚]()
+* OPA Deep Dive - Tim Hinrichs & Torin Sandall, Styra[▶️]() [ 📚]()
+* Thanos Deep Dive: Inside a Distributed Monitoring System - Bartlomiej Plotka & Frederic Branczyk, Red Hat[▶️]() [ 📚]()
+* Prometheus Deep Dive - Ben Kochie, GitLab[▶️]() [ 📚]()
+* Workshop on Defining a Reference Model for Cloud-Native Application Delivery - Alois Reitbauer, Dynatrace & Lei Zhang, Alibab[▶️]() [ 📚]()
+* CloudEvents - Intro, Deep-Dive and More! - Doug Davis, IBM; Clemens Vasters, Microsoft; Klaus Deissner, SAP; & Vladimir Bacvanski, PayPal[▶️]() [ 📚]()
+* Deploy Secure and Scalable Services Across Kubernetes Clusters with NATS - Derek Collison, Colin Sullivan, Waldemar Quevedo, & Jaime Piña, Synadia[▶️]() [ 📚]()
+* Intro + Deep Dive - Provider IBM Cloud - Sahdev P. Zala, Brad Topol, Richard Theis & Ian Watts, IBM[▶️]() [ 📚]()
+* K8s Conformance & SIG Architecture Conformance Subgroup - Hippie Hacker, ii.coop; Dan Kohn, CNCF; & John Belamaric, Google[▶️]() [ 📚]()
+* OpenTelemetry: The First Release, What’s Next, and How to Get Involved - Morgan McLean, Google; Tristan Sloughter, Postmates; Sergey Kanzhelev, Microsoft; & Chris Kleinknecht, Google[▶️]() [ 📚]()
+* SIG-Network Intro & Deep-Dive - Tim Hockin, Google & Vallery Lancey, Lyft[▶️]() [ 📚]()
+* SIG Cluster Lifecycle (kops) - Justin Santa Barbara, Google[▶️]() [ 📚]()
+* SIG Cluster Lifecycle (Cluster API) - Vince Prignano, VMware & Ashish Amarnath, Salesforce[▶️]() [ 📚]()
+* Cloud Native Runtime Security with Falco - Kris Nova, Sysdig & Abhinav Srivastava, Frame.io[▶️]() [ 📚]()
+* Containerd Mini-Summit - Phil Estes, IBM; Lantao Liu, Google; Derek McGowan, Docker; & Yu-Ju Hong, Google[▶️]() [ 📚]()
+* Everything You Always Wanted to Know About SIG-CLI but Were Afraid to Ask - Phillip Wittrock, Google; Maciej Szulik, Red Hat; & Sean Sullivan, Google[▶️]() [ 📚]()
+* Five Cool Things You Can Do with Network Service Mesh - Ed Warnicke, Cisco Systems; Nikolay Nikolaev, VMware; & Frederick Kautz, Doc.ai[▶️]() [ 📚]()
+* Intro + Deep Dive: Kubernetes Storage SIG - Saad Ali, Google[▶️]() [ 📚]()
+* Rook: Cloud-Native Storage Orchestration (Introduction and Deep Dive) - Jared Watts, Upbound; Bassam Tabbara, Upbound; Travis Nielsen, Red Hat; & Alexander Trost, Cloudical[▶️]() [ 📚]()
+* SIG Auth Update and Deep Dive - Mo Khan, Red Hat; Mike Danese, Google; & Tim Allclair, Google[▶️]() [ 📚]()
+* Kubeadm Deep Dive (SIG Cluster Lifecycle) - Fabrizio Pandini, VMware & Yago Nobre, Nubank[▶️]() [ 📚]()
+* Deep Dive Into the Latest Kubernetes Scheduler Features - Abdullah Gharaibeh, Google Inc.[▶️]() [ 📚]()
+* Introduction to Notary - Justin Cappos & Santiago Torres Arias, NYU[▶️]() [ 📚]()
+* CNCF's Serverless WG - Tell Me Where it Hurts - Doug Davis, IBM; Mark Peek, VMware; & Ruben Romero Montes, Red Hat[▶️]() [ 📚]()
+* Envoy Overview and Maintainer Q&A - Harvey Tuch, Google; Lizan Zhou, Tetrate; Stephan Zuercher, Slack; & Snow Pettersen , Square[▶️]() [ 📚]()
+* Intro + Deep Dive: Cloud Native Network Function (CNF) Testbed - Taylor Carpenter & Denver Williams, Vulk Coop[▶️]() [ 📚]()
+* Intro + Deep Dive: Multicluster SIG - Irfan Ur Rehman, Turbonomic; Paul Morie, Red Hat; & Quinton Hoole, FutureWei[▶️]() [ 📚]()
+* Intro + Deep Dive: Specialized Network Protocols for IoT+Edge with Kubernetes - Steven Wong, VMware & Dejan Bosanac, Red Hat[▶️]() [ 📚]()
+* Intro + DeepDive: SIG Scalability - Wojciech Tyczynski & Mateusz Matejczyk, Google[▶️]() [ 📚]()
+* Component Standard Working Group - Leigh Capili, Weaveworks & Michael Taufen, Google[▶️]() [ 📚]()
+
+
+
+## 2019 KubeConCN Shanghai
+
+* CNCF Storage Working Group - Xing Yang, OpenSDS[▶️]() [ 📚]()
+
+* Deep Dive: Jaeger – Steve Flanders, Omnition[▶️]() [ 📚]()
+
+* Intro + Deep Dive BoF: Telecom User Group and Cloud Native Network Functions (CNF) Testbed - Cheryl [▶️]() [ 📚]()
+
+* Hung, Dan Kohn, CNCF & Taylor Carpenter, Vulk Coop[▶️]() [ 📚]()
+
+* Intro + Deep Dive: SIG Scheduling - Wei Huang, IBM & Da Ma, Huawei[▶️]() [ 📚]()
+
+* Intro: Open Policy Agent - Torin Sandall, Styra[▶️]() [ 📚]()
+
+* Intro: SIG Cluster Lifecycle - Di Xu, Ant Financial & Alexander Kanevskiy, Intel[▶️]() [ 📚]()
+
+* Intro: Virtual Kubelet - Sravan Rengarajan & Ria Bhatia, Microsoft[▶️]() [ 📚]()
+
+* Meet the Ambassador: Giri Kuncoro, GOJEK[▶️]() [ 📚]()
+
+* Intro + Deep Dive: CoreDNS - Yong Tang, MobileIron[▶️]() [ 📚]()
+
+* Intro: CNCF Security SIG - Brandon Lum, IBM[▶️]() [ 📚]()
+
+* Intro: Network Service Mesh (NSM) - Frederick Kautz, Doc.ai & Nikolay Nikolaev, VMware[▶️]() [ 📚]()
+
+* Intro: SIG IBMCloud - Guang Ya Liu, IBM (China Lab) & Brad Topol, IBM[▶️]() [ 📚]()
+
+* Intro: Vitess - Jiten Vaidya, PlanetScale & Toliver Jue, PlanetScale[▶️]() [ 📚]()
+
+* Kubernetes Multicluster SIG - Shashidhara T D, Huawei & Xun Pan, IBM[▶️]() [ 📚]()
+
+* OpenTelemetry: Overview & Backwards Compatibility of OpenTracing + OpenCensus - Steve Flanders, Omnition[▶️]() [ 📚]()
+
+* Windows SIG – Craig Peters & Pengfei Ni, Microsoft[▶️]() [ 📚]()
+
+* Meet the Ambassadaor: Puja Abassi, Giant Swarm[▶️]() [ 📚]()
+
+* Fluentd: A Complete Logging Ecosystem for Kubernetes - Masahiro Nakagawa & Yuta Iwama, ARM Treasure Data[▶️]() [ 📚]()
+
+* Intro: Envoy - Lizan Zhou, Tetrate[▶️]() [ 📚]()
+
+* Intro: Kubernetes Contributor Experience SIG - Yang Li, The Plant K.K.[▶️]() [ 📚]()
+
+* CNCF CloudEvents Project: A Step Towards Serverless Interop - Doug Davis, IBM[▶️]() [ 📚]()
+
+* Harbor - Steven Zou & Wenkai Yin, VMware[▶️]() [ 📚]()
+
+* VMware SIG: Cloud Provider Moving Out of Tree+CSI - What it Means to Users - Steven Wong, VMware & Fabio Rapposelli, VMware[▶️]() [ 📚]()
+
+* containerd - Lantao Liu, Google & Wei Fu, Alibaba[▶️]() [ 📚]()
+
+* Intro: OpenStack SIG - Chris Hoge, OpenStack Foundation[▶️]() [ 📚]()
+
+* Kubernetes IoT and Edge Working Group - Steven Wong, VMware & Luwei He[▶️]() [ 📚]()
+
+* Meet the Maintainer: CRI-O - Wei Jiang, Red Hat[▶️]() [ 📚]()
+
+* CNCF Serverless WG: Where Do We Go From Here? - Doug Davis, IBM[▶️]() [ 📚]()
+
+* Intro + Deep Dive: Azure SIG – Craig Peters & Pengfei Ni, Microsoft[▶️]() [ 📚]()
+
+* Intro + Deep Dive: Kubernetes Conformance WG - Srinivas Brahmaroutu, IBM & Dan Kohn, CNCF[▶️]() [ 📚]()
+
+* Deep Dive: Kubespray (a sig-cluster-lifecycle's project) - Rong Zhang, Suning.com[▶️]() [ 📚]()
+
+* Intro: Cloud Provider SIG - Chris Hoge, OpenStack Foundation & Steve Wong, VMware[▶️]() [ 📚]()
+
+* Translating Vitess: The Beginning - Roni He & Toliver Jue, PlanetScale[▶️]() [ 📚]()
+
+* Intro: Dragonfly - Jin Zhang & Zuozheng Hu, Alibaba[▶️]() [ 📚]()
+
+* Intro: Falco - Kaizhe Huang, SysdigKubeEdge - Kevin Wang, Huawei[▶️]() [ 📚]()
+
+* Deep Dive: Kubernetes Policy WG - Zhipeng Huang, Huawei[▶️]() [ 📚]()
+
+* Deep Dive: Rook - Jared Watts, Upbound & Dmitry Yusupov, Nexenta Systems[▶️]() [ 📚]()
+
+* SIG Service Catalog - Jonathan Berkhahn, IBM[▶️]() [ 📚]()
+
+* Meet the Maintainer: CRI-O - Wei Jiang, Red Hat[▶️]() [ 📚]()
+
+* Deep Dive: etcd - Jingyi Hu, Google[▶️]() [ 📚]()
+
+* Multitenancy Working Group - Kevin Wang, Huawei & Tony He, Ant Financial[▶️]() [ 📚]()
+
+* Meet the Maintainer: Network Service Mesh - Nikolay Nikolaev, VMware[▶️]() [ 📚]()
+
+   
+
 
 ## 2018 KubeConNA Seattle 
 
@@ -213,3 +432,130 @@ Maintainer Track
 * Intro: VMware SIG - Fabio Rapposelli &amp; Steve Wong, VMware [▶️](https://www.youtube.com/watch?v=2E8AMB533ek) [ 📚](https://static.sched.com/hosted_files/kccna18/ef/vmware-sig-intro-KubeCon_2018_Seattle_v2.pdf)
 * Intro: Windows SIG - Michael Michael, VMware &amp; Patrick Lang, Microsoft [▶️](https://www.youtube.com/watch?v=5cdoag34pJk) [ 📚]()
 * K8s Conformance Working Session: Supporting Multiple Environments - Dan Kohn, CNCF [▶️](https://www.youtube.com/watch?v=dueJApGGAo0) [ 📚]()
+
+
+
+## 2018 KubeConCN Shanghai
+
+* Intro: CNCF Interactive Landscape - Dan Kohn, Cloud Native Computing Foundation[▶️]() [ 📚]()
+
+* Intro: CNCF Storage WG - Xing Yang & Quinton Hoole, Huawei[▶️]() [ 📚]()
+
+* Intro: containerd - Derek McGowan, Docker & Mike Brown, IBM[▶️]() [ 📚]()
+
+* Intro: Fluentd - Eduardo Silva & Masahiro Nakagawa, Treasure Data[▶️]() [ 📚]()
+
+* Intro: SIG Service Catalog - Doug Davis & Jonathan Berkhahn, IBM[▶️]() [ 📚]()
+
+* Intro: Harbor - Henry Zhang & Jia Zou, VMware[▶️]() [ 📚]()
+
+* Intro: Prometheus – Richard "RichiH" Hartmann, SpaceNet & Ben "SuperQ" Kochie, GitLab[▶️]() [ 📚]()
+
+* Intro: SIG Apps - Janet Kuo, Google[▶️]() [ 📚]()
+
+* Intro: SIG Cloud Provider - Andrew Sy Kim, DigitalOcean[▶️]() [ 📚]()
+
+* Meet the Maintainer: Vitess – Adrianna Tan, PlanetScale[▶️]() [ 📚]()
+
+* Intro: Kubernetes Policy WG - Zhipeng Huang & Hui Wang, Huawei[▶️]() [ 📚]()
+
+* Intro: Kubernetes SIG Multicluster - Quinton Hoole & Irfan Ur Rehman, Huawei[▶️]() [ 📚]()
+
+* Intro: Rook - Jared Watts, Upbound[▶️]() [ 📚]()
+
+* Intro: SAFE (A Cloud Native Security Working Group) - Liz Rice, Aqua Security[▶️]() [ 📚]()
+
+* Meet the Maintainer: Vitess – Adrianna Tan, PlanetScale[▶️]() [ 📚]()
+
+* Intro: Falco - Jorge Salamero Sanz, Sysdig[▶️]() [ 📚]()
+
+* Intro: Jaeger - Prithvi Raj Venkat Raj & Won Jun Jang, Uber[▶️]() [ 📚]()
+
+* Intro: Open Policy Agent - Torin Sandall, Styra[▶️]() [ 📚]()
+
+* Intro: SIG Autoscaling - Marcin Wielgus & Maciej Pytel, Google[▶️]() [ 📚]()
+
+* Intro: SIG Release - Tim Pepper, VMware[▶️]() [ 📚]()
+
+* Meet the Maintainer: Fluentd / Fluent Bit - Eduardo Silva, Treasure Data[▶️]() [ 📚]()
+
+* Meet the Maintainer: Rook - Jared Watts, Upbound[▶️]() [ 📚]()
+
+* Intro: CoreDNS - Yong Tang, Infoblox[▶️]() [ 📚]()
+
+* Intro: Helm - Taylor Thomas, Microsoft[▶️]() [ 📚]()
+
+* Intro: SIG IBMCloud - Sahdev Zala & Doug Davis, IBM[▶️]() [ 📚]()
+
+* Intro: SIG Scheduling - Da Ma, IBM[▶️]() [ 📚]()
+
+* Meet the Maintainer: Jaeger – Won Jun Jang, Uber[▶️]() [ 📚]()
+
+* Intro: CNCF Cross-Cloud CI - W. Watson, Vulk[▶️]() [ 📚]()
+
+* Intro: CNCF K8s-Conformance WG - Zefeng Wang, Huawei & Aaron Crickenberger, Google[▶️]() [ 📚]()
+
+* Intro: SIG Testing - Jessie Zhu & Sen Lu, Google[▶️]() [ 📚]()
+
+* Intro: SIG VMware - Fabio Rapposelli & Steve Wong, VMware[▶️]() [ 📚]()
+
+* Deep Dive: CNCF Storage WG - Xing Yang & Quinton Hoole, Huawei[▶️]() [ 📚]()
+
+* Deep Dive: Fluent Bit - Eduardo Silva & Masahiro Nakagawa, Treasure Data[▶️]() [ 📚]()
+
+* Deep Dive: SIG Autoscaling - Marcin Wielgus & Maciej Pytel, Google[▶️]() [ 📚]()
+
+* Deep Dive: SIG Service Catalog - Doug Davis & Jonathan Berkhahn, IBM[▶️]() [ 📚]()
+
+* Intro: SIG PM (Kubernetes) - Ihor Dvoretskyi, Cloud Native Computing Foundation & Dustin Kirkland, Google[▶️]() [ 📚]()
+
+* Deep Dive: Harbor - Daniel Jiang & Steven Zou, VMware[▶️]() [ 📚]()
+
+* Deep Dive: Prometheus – Richard "RichiH" Hartmann, SpaceNet & Ben "SuperQ" Kochie, GitLab[▶️]() [ 📚]()
+
+* Deep Dive: SIG Apps - Janet Kuo, Google[▶️]() [ 📚]()
+
+* Deep Dive: SIG Cloud Provider - Andrew Sy Kim, DigitalOcean[▶️]() [ 📚]()
+
+* Intro: SIG Cluster Lifecycle - Lucas Käldström, Independent; Di Xu, Ant Financial & Alexander Kanevskiy, Intel[▶️]() [ 📚]()
+
+* Meet the Maintainer: Prometheus - Ben Kochie, GitLab & Richard Hartmann, SpaceNet AG[▶️]() [ 📚]()
+
+* Deep Dive: Jaeger - Prithvi Raj Venkat Raj & Won Jun Jang, Uber[▶️]() [ 📚]()
+
+* Deep Dive: Kubernetes Policy WG - Torin Sandall, Styra & Da Ma, Zhipeng Huang, Huawei[▶️]() [ 📚]()
+
+* Deep Dive: Kubernetes SIG Multicluster - Quinton Hoole & Irfan Ur Rehman, Huawei[▶️]() [ 📚]()
+
+* Deep Dive: Rook - Jared Watts, Upbound[▶️]() [ 📚]()
+
+* Meet the Maintainer: Prometheus - Ben Kochie, GitLab & Richard Hartmann, SpaceNet AG[▶️]() [ 📚]()
+
+* Deep Dive: CNCF Serverless WG / CloudEvents - Doug Davis, IBM & Clemens Vasters, Microsoft[▶️]() [ 📚]()
+
+* Deep Dive: containerd - Derek McGowan, Docker & Mike Brown, IBM[▶️]() [ 📚]()
+
+* Deep Dive: Falco - Jorge Salamero Sanz, Sysdig[▶️]() [ 📚]()
+
+* Deep Dive: gRPC - Yuxuan Li, Google[▶️]() [ 📚]()
+
+* Deep Dive: SIG Release - Tim Pepper, VMware[▶️]() [ 📚]()
+
+* Deep Dive: CoreDNS - Yong Tang, Infoblox[▶️]() [ 📚]()
+
+* Deep Dive: Helm - Taylor Thomas, Microsoft[▶️]() [ 📚]()
+
+* Deep Dive: SIG IBMCloud - Sahdev Zala & Guang Ya Liu, IBM[▶️]() [ 📚]()
+
+* Deep Dive: SIG Scheduling - Da Ma, IBM[▶️]() [ 📚]()
+
+* Deep Dive: CNCF K8s-Conformance WG - Zefeng Wang, Huawei & Srinivas Brahmaroutu, IBM[▶️]() [ 📚]()
+
+* Deep Dive: SIG Cluster Lifecycle - Di Xu, Ant Financial & Alexander Kanevskiy, Intel[▶️]() [ 📚]()
+
+* Deep Dive: SIG VMware - Steve Wong & Hui Lou, VMware[▶️]() [ 📚]()
+
+   
+
+## 
+
