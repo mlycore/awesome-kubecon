@@ -147,3 +147,10 @@ This is the briefcase of KubeCon Tags, aiming at providing fast search by speech
   * [Serverless]()
   * [Storage]()
   
+
+### 2016年
+
+* 2016 KubeConNA  Seattle
+  * [Birds of a Feather]()		
+  * [Keynotes]()	
+  * [Lightning Talks]()	

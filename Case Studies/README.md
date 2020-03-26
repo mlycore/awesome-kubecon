@@ -26,70 +26,50 @@ Case Studies
 
 ## 2019 KubeConNA San Diego
 
-* Kubernetes at Cruise: Two Years of Multitenancy - Karl Isenberg, Cruise [▶️]() [ 📚]()
-
-* Scaling Resilient Systems: A Journey into Slack's Database Service - Rafael Chacon & Guido Iaquinti, Slack [▶️]() [ 📚]()
-
-* Running Istio and Kubernetes On-prem at Yahoo Scale - Suresh Visvanathan & Mrunmayi Dhume, Verizon [▶️]() [ 📚]()
-
-* 10 Weird Ways to Blow Up Your Kubernetes - Melanie Cebula & Bruce Sherrod, Airbnb [▶️]() [ 📚]()
-
-* Making an Internal Kubernetes Offering Generally Available - James Wen, Spotify [▶️]() [ 📚]()
-
-* How Spotify Migrated Ingress HTTP Systems to Envoy - Erica Manno & Vladimir Shakhov, Spotify [▶️]() [ 📚]()
-
-* Case Study: AI-as-a-Service on Kubernetes at Scale and In Production - Itay Gabbay, Israel Ministry of Defense (MOD) & Tushar Katarki, Red Hat [▶️]() [ 📚]()
-
-* Moving from Legacy Infrastructure to the Cloud in a Government Organization - Chris Carty, City Of Ottawa [▶️]() [ 📚]()
-
-* Panel: Improving and Managing Kubernetes at Scale - Xiang Li, Alibaba; Corin Dwyer, Netflix; Amit Bose, Uber; June Liu & Harry Zhang, Pinterest [▶️]() [ 📚]()
-
-* Cruise’s Self-Driving Networking Journey - Bernard Van De Walle & Can Yucel, Cruise [▶️]() [ 📚]()
-
-* Education as a Service: Containerization and Orchestration of CS50 IDE - Kareem Zidane & David J. Malan, Harvard University [▶️]() [ 📚]()
-
-* Balancing Power and Pain: Moving a Startup From a PaaS to Kubernetes - David Sudia, GoSpotCheck & Toni Rib, Gusto [▶️]() [ 📚]()
-
-* Security Beyond Buzzwords: How to Secure Kubernetes with Empathy? - Pushkar Joglekar, Visa [▶️]() [ 📚]()
-
-* Gone in 60 Minutes: Migrating 20 TB from AKS to GKE in an Hour with Vitess - Derek Perkins, Nozzle [▶️]() [ 📚]()
-
-* Kubernetes at Reddit: Tales from Production - Greg Taylor, Reddit, Inc [▶️]() [ 📚]()
-
-* Tinder's Move to Kubernetes - Chris O'Brien & Chris Thomas, Tinder [▶️]() [ 📚]()
-
-* Creating a Micro Open-Source Community with Helm - Katie Gamanji, Condé Nast International [▶️]() [ 📚]()
+* Kubernetes at Cruise: Two Years of Multitenancy - Karl Isenberg, Cruise [▶️](https://www.youtube.com/watch?v=m19D9vZ1QFQ) [ 📚](https://static.sched.com/hosted_files/kccncna19/14/Kubernetes%20Multitenancy%20-%20Karl%20Isenberg%20-%20KubeCon%20NA%202019.pdf)
+* Scaling Resilient Systems: A Journey into Slack's Database Service - Rafael Chacon & Guido Iaquinti, Slack [▶️](https://www.youtube.com/watch?v=aTItjMJE17c) [ 📚](https://static.sched.com/hosted_files/kccncna19/13/Scaling%20resilient%20systems%20-%20A%20journey%20into%20Slack%27s%20database%20service.pdf)
+* Running Istio and Kubernetes On-prem at Yahoo Scale - Suresh Visvanathan & Mrunmayi Dhume, Verizon [▶️](https://www.youtube.com/watch?v=fEaVU1i-fOQ) [ 📚](https://static.sched.com/hosted_files/kccncna19/2f/K8s%20%26%20Istio%20%40%20Yahoo.pdf)
+* 10 Weird Ways to Blow Up Your Kubernetes - Melanie Cebula & Bruce Sherrod, Airbnb [▶️](https://www.youtube.com/watch?v=FrQ8Lwm9_j8) [ 📚](https://static.sched.com/hosted_files/kccncna19/b9/kubecon%202019%20preso.pdf)
+* Making an Internal Kubernetes Offering Generally Available - James Wen, Spotify [▶️](https://www.youtube.com/channel/UCvqbFHwN-nwalWPjPUKpvTA) [ 📚](https://static.sched.com/hosted_files/kccncna19/78/Making%20an%20Internal%20Kubernetes%20Offering%20Generally%20Available.pdf)
+* How Spotify Migrated Ingress HTTP Systems to Envoy - Erica Manno & Vladimir Shakhov, Spotify [▶️](https://www.youtube.com/watch?v=I_oa8l0j-yM) [ 📚](https://static.sched.com/hosted_files/kccncna19/83/EnvoySpotifyPerimeter.pdf)
+* Case Study: AI-as-a-Service on Kubernetes at Scale and In Production - Itay Gabbay, Israel Ministry of Defense (MOD) & Tushar Katarki, Red Hat [▶️](https://www.youtube.com/watch?v=LnXlZN8J6w0) [ 📚](https://static.sched.com/hosted_files/kccncna19/f8/AI_ML%20Case%20Study%20-%20Kubecon%20SD%202019%20.pdf)
+* Moving from Legacy Infrastructure to the Cloud in a Government Organization - Chris Carty, City Of Ottawa [▶️](https://www.youtube.com/watch?v=oBuOf-IvHWQ) [ 📚](https://static.sched.com/hosted_files/kccncna19/00/kubecon-pres.pdf)
+* Panel: Improving and Managing Kubernetes at Scale - Xiang Li, Alibaba; Corin Dwyer, Netflix; Amit Bose, Uber; June Liu & Harry Zhang, Pinterest [▶️](https://www.youtube.com/watch?v=BetxFccSpxQ) 
+* Cruise’s Self-Driving Networking Journey - Bernard Van De Walle & Can Yucel, Cruise [▶️](https://www.youtube.com/watch?v=EaCUFOehNnY) [ 📚](https://static.sched.com/hosted_files/kccncna19/ca/KubeCon%20networking%20-%20Jon%20Bernard%20%281%29.pdf)
+* Education as a Service: Containerization and Orchestration of CS50 IDE - Kareem Zidane & David J. Malan, Harvard University [▶️](https://www.youtube.com/watch?v=rIY44XIGBz0) [ 📚](https://static.sched.com/hosted_files/kccncna19/eb/Containerization-and-Orchestration-of-CS50-IDE.pdf)
+* Balancing Power and Pain: Moving a Startup From a PaaS to Kubernetes - David Sudia, GoSpotCheck & Toni Rib, Gusto [▶️](https://www.youtube.com/watch?v=AqMxaxJsJKY) [ 📚](https://static.sched.com/hosted_files/kccncna19/3d/Balancing%20Power%20%26%20Pain.pdf)
+* Security Beyond Buzzwords: How to Secure Kubernetes with Empathy? - Pushkar Joglekar, Visa [▶️]() [ 📚](https://static.sched.com/hosted_files/kccncna19/55/kubecon-na-sbb-visa-pj-2019-11-11.pdf)（未找到视频地址）
+* Gone in 60 Minutes: Migrating 20 TB from AKS to GKE in an Hour with Vitess - Derek Perkins, Nozzle [▶️](https://www.youtube.com/watch?v=KpygSD-v_ws) 
+* Kubernetes at Reddit: Tales from Production - Greg Taylor, Reddit, Inc [▶️](https://www.youtube.com/watch?v=WTbIBqNcjoQ) [ 📚](https://static.sched.com/hosted_files/kccncna19/cb/Kubernetes%20at%20Reddit_%20Tales%20from%20Production.pdf)
+* Tinder's Move to Kubernetes - Chris O'Brien & Chris Thomas, Tinder [▶️](https://www.youtube.com/watch?v=o3WXPXDuCSU) [ 📚](https://static.sched.com/hosted_files/kccncna19/1e/Tinder_KubeCon_2019.pdf)
+* Creating a Micro Open-Source Community with Helm - Katie Gamanji, Condé Nast International [▶️](https://www.youtube.com/watch?v=SsUp8LW2ovs) [ 📚](https://kccncna19.sched.com/event/UaXL/creating-a-micro-open-source-community-with-helm-katie-gamanji-conde-nast-international?iframe=yes&w=100%&sidebar=yes&bg=no)
 
    
 
 ## 2019 KubeConCN Shanghai
 
-* Right-Sizing and Auto-Scaling of MySQL Containers in Kubernetes - Yuan Chen & Min Li, JD.com[▶️]() [ 📚]()
-* Building and Managing Kubernetes with Kubernetes - Xin Ma, eBay[▶️]() [ 📚]()
-* Co-Location of CPU and GPU Workloads with High Resource Efficiency - Penghao Cen, Ant Financial & Jian He, Alibaba[▶️]() [ 📚]()
-* Adapt to Unified and Pluggable Cluster Management Platform at LinkedIn - Tengfei Mu & Abin Shahab, LinkedIn[▶️]() [ 📚]()
-* TiKV Best Practices - James Zhang, PingCAP[▶️]() [ 📚]()
-* Cost-Effective Scheduling of a Massive Number of Containers in Kubernetes - Yuan Chen, JD.com[▶️]() [ 📚]()
-* Three Approaches to Speed up Image Distribution in Cloud Native Era - Jiang Yong, Alibaba[▶️]() [ 📚]()
-* Panel Discussion: Leverage Cloud Native to Transform Your Enterprise – The China Region - Cheryl Hung, CNCF; Kevin Wang, Huawei; Xiang Li, Alibaba Cloud; Vivian Zhang, JD.com; & Cheng Yu, Qihoo360[▶️]() [ 📚]()
-* Container Technology Drives Windows Application Transformation - Huajun Gu, DaoCloud & Jason Huang, MicrosoftPerforming Infrastructure Migrations at Scale - Melanie Cebula, Airbnb[▶️]() [ 📚]()
-* CITIC Bank's Containerized Exploration Road - Jia Xing, Alauda[▶️]() [ 📚]()
+* Right-Sizing and Auto-Scaling of MySQL Containers in Kubernetes - Yuan Chen & Min Li, JD.com[▶️](https://youtu.be/NvGA_i_F7m0) 
+* Building and Managing Kubernetes with Kubernetes - Xin Ma, eBay[▶️](https://youtu.be/_uxeum9-TPE)
+* Co-Location of CPU and GPU Workloads with High Resource Efficiency - Penghao Cen, Ant Financial & Jian He, Alibaba[▶️]( https://youtu.be/ei-1TwR7PcA) [ 📚](https://static.sched.com/hosted_files/kccncosschn19eng/6f/ColocationOnK8s.pdf)
+* Adapt to Unified and Pluggable Cluster Management Platform at LinkedIn - Tengfei Mu & Abin Shahab, LinkedIn[▶️](https://youtu.be/PsbVjF_W7oE) [ 📚](https://static.sched.com/hosted_files/kccncosschn19eng/2e/kubecon-cn-k8s-at-li.pdf)
+* TiKV Best Practices - James Zhang, PingCAP[▶️](https://youtu.be/44kHIspniFs) [ 📚](https://static.sched.com/hosted_files/kccncosschn19eng/70/TiKV%20Best%20Practices.pdf)
+* Cost-Effective Scheduling of a Massive Number of Containers in Kubernetes - Yuan Chen, JD.com[▶️](https://youtu.be/Z-GjjO_pmZg)
+* Three Approaches to Speed up Image Distribution in Cloud Native Era - Jiang Yong, Alibaba[▶️](https://youtu.be/h5snJb3V_to) [ 📚](https://static.sched.com/hosted_files/kccncosschn19eng/12/Three%20Approaches%20to%20Speed%20up%20Image%20Distribution%20in%20Cloud%20Native%20Era.pptx)
+* Panel Discussion: Leverage Cloud Native to Transform Your Enterprise – The China Region - Cheryl Hung, CNCF; Kevin Wang, Huawei; Xiang Li, Alibaba Cloud; Vivian Zhang, JD.com; & Cheng Yu, Qihoo360[▶️](https://youtu.be/NNKknGFhmXk)
+* Container Technology Drives Windows Application Transformation - Huajun Gu, DaoCloud & Jason Huang, Microsoft [▶️](https://youtu.be/JBlteC6vrc8) [ 📚](https://static.sched.com/hosted_files/kccncosschn19eng/5d/Container%20Technology%20Drives%20Windows%20Application%20Transformation.pdf)
+Performing Infrastructure Migrations at Scale - Melanie Cebula, Airbnb[▶️](https://youtu.be/QQ1QW4boM4Q) [ 📚](https://static.sched.com/hosted_files/kccncosschn19eng/91/kubecon-china-pdf.pdf)
+* CITIC Bank's Containerized Exploration Road - Jia Xing, Alauda[▶️](https://youtu.be/80i_T3Gg3Zo) [ 📚](https://static.sched.com/hosted_files/kccncosschn19eng/68/%E4%B8%AD%E4%BF%A1%E9%93%B6%E8%A1%8C%E7%9A%84%E5%AE%B9%E5%99%A8%E5%8C%96%E6%8E%A2%E7%B4%A2%E4%B9%8B%E8%B7%AF.pdf)
 
 
 
 ## 2018 KubeConEU  Copenhagen
 
-* The Enterprise’s New Shoes - The Journey of Adidas to a Global Kubernetes Rollout -Daniel Eichten, Adidas AG & Oliver Thylmann, Giant Swarm GmbH (Any Skill Level) (Slides Attached)[▶️]() [ 📚]()
-
-* Kubernetes on Supporting $8 Trillion Card Payments in China - Xin Zhang & Deyuan Deng, Caicloud (Any Skill Level)[▶️]() [ 📚]()
-
-* Kubernetes and Taxes: Lessons Learned at the Norwegian Tax Administration - A Production Case Study - Bjarte S. Karlsen, The Norwegian Tax Administration (Intermediate Skill Level) (Slides Attached)[▶️]() [ 📚]()
-
-* Write Less Code, Use More Tools: How we Orchestrate 7M+ Builds/Month with Kubernetes + Nomad - Danielle Tomlinson, CircleCI (Any Skill Level)[▶️]() [ 📚]()
-
-* Building a Cloud Native Culture in an Enterprise - Deep Kapadia & Tony Li, The New York Times Company (Any Skill Level) (Slides Attached)[▶️]() [ 📚]()
-
-* From Data Centers to Cloud Native - Dave Zolotusky & James Wen, Spotify (Intermediate Skill Level) (Slides Attached)[▶️]() [ 📚]()
+* The Enterprise’s New Shoes - The Journey of Adidas to a Global Kubernetes Rollout -Daniel Eichten, Adidas AG & Oliver Thylmann, Giant Swarm GmbH (Any Skill Level) (Slides Attached)[▶️](https://youtu.be/dwDhHt1Llb8) [ 📚](https://static.sched.com/hosted_files/kccnceu18/d7/kubecon-emperors-new-shoes.pdf)
+* Kubernetes on Supporting $8 Trillion Card Payments in China - Xin Zhang & Deyuan Deng, Caicloud (Any Skill Level)[▶️](https://youtu.be/OS5DKWffn9s) [ 📚](https://static.sched.com/hosted_files/kccnceu18/f9/Kubernetes%20on%20Supporting%20%248%20Trillion%20Card%20Payments%20in%20China.pdf)
+* Kubernetes and Taxes: Lessons Learned at the Norwegian Tax Administration - A Production Case Study - Bjarte S. Karlsen, The Norwegian Tax Administration (Intermediate Skill Level) (Slides Attached)[▶️](https://youtu.be/VZbDJXUwLbg) [ 📚](https://static.sched.com/hosted_files/kccnceu18/6f/Kubernetes%20and%20Taxes.pdf)
+* Write Less Code, Use More Tools: How we Orchestrate 7M+ Builds/Month with Kubernetes + Nomad - Danielle Tomlinson, CircleCI (Any Skill Level)[▶️](https://youtu.be/b8NQO_vFAYo) 
+* Building a Cloud Native Culture in an Enterprise - Deep Kapadia & Tony Li, The New York Times Company (Any Skill Level) (Slides Attached)[▶️](https://youtu.be/Tm4VfJtOHt8) [ 📚](https://static.sched.com/hosted_files/kccnceu18/9a/KubeCon%20Europe%202018.pdf)
+* From Data Centers to Cloud Native - Dave Zolotusky & James Wen, Spotify (Intermediate Skill Level) (Slides Attached)[▶️](https://youtu.be/dpJAE3k04hc) [ 📚](https://static.sched.com/hosted_files/kccnceu18/e6/KubeCon%20EU%202018%20-%20Spotify%20-%20From%20Data%20Centers%20to%20Cloud%20Native.pdf)
 
    
 
@@ -118,22 +98,22 @@ Case Studies
 
 ## 2018 KubeConCN Shanghai
 
-* Using Kubernetes for Handling Second Screen Experience of European TV Show - Jan-Erik Revsbech & Thomas Hector, Peytz & Co[▶️]() [ 📚]()
-* When Distributed Database Meets Cloud - Lessons Learned - Yanqing Weng, Pivotal[▶️]() [ 📚]()
-* Net Framework to .Net Core Microservices With Windows and Linux Containers - Hongxi Ma, Cloud To Go Inc. Ltd.[▶️]() [ 📚]()
-* Istio in Production: Real Customers, Real Solutions - Craig Box, Google[▶️]() [ 📚]()
-* Running Vitess on Kubernetes at Massive Scale: JD.com Case Study - Jiten Vaidya, PlanetScale & Xin Lv, JD.com[▶️]() [ 📚]()
-* PetroChina: Big Oil’s Information System on Cloud Native Technology – Hui Chi, PetroChina & Kai Chen, Alauda[▶️]() [ 📚]()
-* From Mesos to Kubernetes - Yin Sun, Xiaomi Inc.[▶️]() [ 📚]()
-* Kubernetes on Supporting 1 Million Bike-Taxi Drivers in Indonesia - Giri Kuncoro & Iqbal Farabi, GO-JEK[▶️]() [ 📚]()
+* Using Kubernetes for Handling Second Screen Experience of European TV Show - Jan-Erik Revsbech & Thomas Hector, Peytz & Co[▶️]() [ 📚](https://static.sched.com/hosted_files/kccncchina2018english/18/KubeCon%20-%20PDF%20Presentation.pdf)（未找到视频地址）
+* When Distributed Database Meets Cloud - Lessons Learned - Yanqing Weng, Pivotal[▶️]() [ 📚](https://static.sched.com/hosted_files/kccncchina2018english/a4/When%20Distributed%20Database%20Meets%20Cloud%20-%20Lessons%20Learned%20.pdf)（未找到视频地址）
+* Net Framework to .Net Core Microservices With Windows and Linux Containers - Hongxi Ma, Cloud To Go Inc. Ltd.[▶️]() （未找到视频地址）
+* Istio in Production: Real Customers, Real Solutions - Craig Box, Google[▶️]() （未找到视频地址）
+* Running Vitess on Kubernetes at Massive Scale: JD.com Case Study - Jiten Vaidya, PlanetScale & Xin Lv, JD.com[▶️]() [ 📚](https://static.sched.com/hosted_files/kccncchina2018english/97/Shanghai%20Kubecon%20%281%29.pdf)（未找到视频地址）
+* PetroChina: Big Oil’s Information System on Cloud Native Technology – Hui Chi, PetroChina & Kai Chen, Alauda[▶️]() [ 📚](https://static.sched.com/hosted_files/kccncchina2018english/8c/%E7%9F%B3%E6%B2%B9%E5%B7%A8%E5%A4%B4%E4%B8%8EKubernetes%2C%20Microservice%20%26%20DevOps%E5%85%B1%E8%88%9E1114%E6%9C%80%E7%BB%88%E7%89%88.pdf)（未找到视频地址）
+* From Mesos to Kubernetes - Yin Sun, Xiaomi Inc.[▶️]()（未找到视频地址）
+* Kubernetes on Supporting 1 Million Bike-Taxi Drivers in Indonesia - Giri Kuncoro & Iqbal Farabi, GO-JEK[▶️]() [ 📚](https://static.sched.com/hosted_files/kccncchina2018english/a0/Kubernetes%20on%20Supporting%201%20Million%20Bike-Taxi%20Drivers%20in%20Indonesia.pdf)（未找到视频地址）
 
 
 
 ## 2017 KubeConNA Texas
 
-* Panel: Kubernetes, Cloud Native and the Public Cloud [B] - Moderated by Dan Kohn, Cloud Native Computing Foundation[▶️]() [ 📚]()
-* DevOps Friendly Doc Publishing for APIs & Microservices - Amanda Whaley, Cisco DevNet
-* Pinterest's Journey from VMs to Containers [I] - Michael Benedict, Pinterest[▶️]() [ 📚]()
-* The True Costs of Running Cloud Native Infrastructure [B] - Dmytro Dyachuk, Pax Automa[▶️]() [ 📚]()
-* Bottoms-Up Adoption of a Microservices Workflow Using Kubernetes & Envoy - Rafael Schloming & Phil Lombardi, Datawire[▶️]() [ 📚]()
-* The Good, the Bad and the Ugly of Migrating Hundreds of Legacy Applications to Kubernetes [B] - Josef Adersberger, QAware[▶️]() [ 📚]()
+* Panel: Kubernetes, Cloud Native and the Public Cloud [B] - Moderated by Dan Kohn, Cloud Native Computing Foundation[▶️](https://youtu.be/aYOqB3QUILY) 
+* DevOps Friendly Doc Publishing for APIs & Microservices - Amanda Whaley, Cisco DevNet[▶️](https://youtu.be/57moZYJstdU) [ 📚](https://static.sched.com/hosted_files/kccncna17/d2/AmandaWhaley-DevOpsFriendlyDocs-CloudNativeCon-Final.pdf)
+* Pinterest's Journey from VMs to Containers [I] - Michael Benedict, Pinterest[▶️](https://youtu.be/YNAa0ZFkRo8) 
+* The True Costs of Running Cloud Native Infrastructure [B] - Dmytro Dyachuk, Pax Automa[▶️](https://youtu.be/NElaNl1Kwkw) [ 📚](https://static.sched.com/hosted_files/kccncna17/5f/True%20Costs%20Dyachuk%20%282%29.pdf)
+* Bottoms-Up Adoption of a Microservices Workflow Using Kubernetes & Envoy - Rafael Schloming & Phil Lombardi, Datawire[▶️](https://youtu.be/GfrPVlRx5Gk) [ 📚](https://static.sched.com/hosted_files/kccncna17/8a/Copy%20of%20Service%20Oriented%20Development%20%28Kubecon%20Austin%202017%29.pdf)
+* The Good, the Bad and the Ugly of Migrating Hundreds of Legacy Applications to Kubernetes [B] - Josef Adersberger, QAware[▶️](https://youtu.be/yB6Zl8nqqqE) [ 📚](https://static.sched.com/hosted_files/kccncna17/ba/cnc-adersberger-legacy2k8s.pdf)
