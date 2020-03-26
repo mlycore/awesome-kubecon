@@ -179,7 +179,7 @@ Maintainer Track
 * CRI-O: Under the Hood - Mrunal Patel, Red Hat, Inc. & Sascha Grunert, SUSE[▶️](https://www.youtube.com/watch?v=3kz-pERV6Qg) [ 📚](https://static.sched.com/hosted_files/kccncna19/51/kubecon19-cri-o.pdf)
 * Deep Dive Into API Machinery - Antoine Pelisse, Google & Stefan Schimanski, Red Hat[▶️](https://www.youtube.com/watch?v=qTm-g3vtVOE) [ 📚](https://static.sched.com/hosted_files/kccncna19/1c/KubeCon%20NA%2019_%20Sig%20API%20Machinery%20Deep%20Dive.pdf)
 * Deep Dive: CNI - Bryan Boreham, Weaveworks & Dan Williams, Red Hat[▶️](https://www.youtube.com/watch?v=zChkx-AB5Xc) [ 📚](https://static.sched.com/hosted_files/kccncna19/b1/CNI%20Deep%20Dive%202019.pdf)
-* Geo-partitioning with Vitess - Deepthi Sigireddi & Jitendra Vaidya, PlanetScale[▶️](https://www.youtube.com/watch?v=-Hz6LFJu1cY)https://www.youtube.com/watch?v=-Hz6LFJu1cY [ 📚](https://static.sched.com/hosted_files/kccncna19/78/VitessDeepDive%40KubeconNA19.pdf)
+* Geo-partitioning with Vitess - Deepthi Sigireddi & Jitendra Vaidya, PlanetScale[▶️](https://www.youtube.com/watch?v=-Hz6LFJu1cY) [ 📚](https://static.sched.com/hosted_files/kccncna19/78/VitessDeepDive%40KubeconNA19.pdf)
 * Intro: Scheduling SIG - Wei Huang, IBM & RaviSantosh Gudimetla, Red Hat[▶️](https://www.youtube.com/channel/UCvqbFHwN-nwalWPjPUKpvTA) [ 📚](https://static.sched.com/hosted_files/kccncna19/2b/SIG-Scheduling%20Intro.pdf)
 * Intro: SIG Cluster Lifecycle - Timothy St. Clair, VMware[▶️](https://www.youtube.com/channel/UCvqbFHwN-nwalWPjPUKpvTA) [ 📚](https://static.sched.com/hosted_files/kccncna19/70/Intro%20to%20SIG%20Cluster%20Lifecycle-%20KubeconNA%202019.pdf)
 * Introduction to the CNCF App Delivery SIG - Alois Reitbauer, Dynatrace & Lei Zhang, Alibaba[▶️](https://www.youtube.com/watch?v=e9EbfW7RfVI) 
@@ -428,7 +428,7 @@ Maintainer Track
 * Deep Dive: CNCF Storage WG - Xing Yang & Quinton Hoole, Huawei[▶️]() [ 📚](https://static.sched.com/hosted_files/kccncchina2018english/b0/2018%20KubeCon%20Shanghai%20-%20Deep%20Dive%20-%20Storage%20WG%20-%20Final.pdf)（未找到视频地址）
 * Deep Dive: Fluent Bit - Eduardo Silva & Masahiro Nakagawa, Treasure Data[▶️]()  （未找到视频地址）
 * Deep Dive: SIG Autoscaling - Marcin Wielgus & Maciej Pytel, Google[▶️]()  （未找到视频地址）
-* Deep Dive: SIG Service Catalog - Doug Davis & Jonathan Berkhahn, IBM[▶️]() [ 📚](https://static.sched.com/hosted_files/kccncchina2018english/3e/SIG-ServiceCatalog-DeepDive.pdf（未找到视频地址）
+* Deep Dive: SIG Service Catalog - Doug Davis & Jonathan Berkhahn, IBM[▶️]() [ 📚](https://static.sched.com/hosted_files/kccncchina2018english/3e/SIG-ServiceCatalog-DeepDive.pdf)（未找到视频地址）
 * Intro: SIG PM (Kubernetes) - Ihor Dvoretskyi, Cloud Native Computing Foundation & Dustin Kirkland, Google[▶️]()  （未找到视频地址）
 * Deep Dive: Harbor - Daniel Jiang & Steven Zou, VMware[▶️]() [ 📚](https://static.sched.com/hosted_files/kccncchina2018english/80/2018-11-15-Prometheus_Deep_Dive.pdf)（未找到视频地址）
 * Deep Dive: Prometheus – Richard "RichiH" Hartmann, SpaceNet & Ben "SuperQ" Kochie, GitLab[▶️]()  （未找到视频地址）
