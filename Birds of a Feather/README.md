@@ -22,7 +22,7 @@
 * Deep Dive: Operator Framework BoF - Diane Mueller &amp; Sebastian Pahl, Red Hat [▶️](https://www.youtube.com/watch?v=fu7ecA2rXmc) [ 📚](https://static.sched.com/hosted_files/kccna18/f8/Deep%20Dive_%20Operator%20Framework.pdf)
 * Intro: Chaos Engineering BoF - Sylvain Hellegouarch, ChaosIQ [▶️](https://www.youtube.com/watch?v=Tk7SGigV7U0) [ 📚](https://static.sched.com/hosted_files/kccna18/ed/Chaos%20Engineering%20-%20Open%20Science%20for%20Software%20Engineering%20-%20KubeCon%20North%20America%202018.pdf)
 * Deep Dive: Kubeflow BoF - David Aronchick &amp; Jeremy Lewi, Google [▶️](https://www.youtube.com/watch?v=gbZJ8eSIfJg) 
-* Intro: Cloud Native Network Functions BoF - Dan Kohn, Cloud Native Computing Foundation [▶️](https://www.youtube.com/watch?v=5qMiR7HO5bQ) [ 📚(https://static.sched.com/hosted_files/kccna18/c1/KubeCon%20NA%202018%20Intro_%20Cloud%20Native%20Network%20Functions%20BoF%2012-12-2018%20FINAL.pdf)
+* Intro: Cloud Native Network Functions BoF - Dan Kohn, Cloud Native Computing Foundation [▶️](https://www.youtube.com/watch?v=5qMiR7HO5bQ) [ 📚](https://static.sched.com/hosted_files/kccna18/c1/KubeCon%20NA%202018%20Intro_%20Cloud%20Native%20Network%20Functions%20BoF%2012-12-2018%20FINAL.pdf)
 * Deep Dive: Network Service Mesh BoF - Ed Warnicke, Cisco &amp; Frederick F. Kautz IV, Red Hat [▶️](https://www.youtube.com/watch?v=SGi9LS870rk) 
 * Deep Dive: Chaos Engineering BoF - Sylvain Hellegouarch, ChaosIQ &amp; Julien Bisconti, 56k.cloud [▶️](https://www.youtube.com/watch?v=ukc5mvZkxDI) 
 * Deep Dive: Knative Productivity BoF - Jessie Zhu &amp; Adriano Cunha, Google [▶️](https://www.youtube.com/watch?v=pAWhIiNbkOc) [ 📚](https://static.sched.com/hosted_files/kccna18/94/KubeCon%202018%20Knative%20Productivity%20Deep%20Dive.pdf)
@@ -55,5 +55,5 @@
 
 ## 2016 KubeConNA  Seattle
 
-* BOF: Growing a Community (Leveraging Meetups to Educate, Grow, and Facilitate Conversation) - Lee Calcote, Twistlock[▶️](https://www.youtube.com/watch?v=_SZZa5Ai1PQ ) [ 📚]( [https://static.sched.com/hosted_files/cnkc16/a4/KubeCon%20-%20Growing%20a%20Community%20Leveraging%20Meetups%20to%20Educate%2C%20Grow%20and%20Facilitate%20-%20Lee%20Calcote.pdf](https://static.sched.com/hosted_files/cnkc16/a4/KubeCon - Growing a Community Leveraging Meetups to Educate%2C Grow and Facilitate - Lee Calcote.pdf) )
+* BOF: Growing a Community (Leveraging Meetups to Educate, Grow, and Facilitate Conversation) - Lee Calcote, Twistlock[▶️](https://www.youtube.com/watch?v=_SZZa5Ai1PQ ) [ 📚](https://static.sched.com/hosted_files/cnkc16/a4/KubeCon%20-%20Growing%20a%20Community%20Leveraging%20Meetups%20to%20Educate%2C%20Grow%20and%20Facilitate%20-%20Lee%20Calcote.pdf)
 
