@@ -2,6 +2,8 @@
 
 This is the briefcase of KubeCon Tags, aiming at providing fast search by speech topic catogaries.
 
+### 2019年
+
 * 2019 KubeConEU Barcelona
   * [Appplication Development](https://github.com/mlycore/awesome-kubecon/tree/master/Application%20Development#2019-kubeconeu-barcelona)
   * [Case Studies](https://github.com/mlycore/awesome-kubecon/tree/master/Case%20Studies#2019-kubeconeu-barcelona)
@@ -23,9 +25,71 @@ This is the briefcase of KubeCon Tags, aiming at providing fast search by speech
   * [Storage](https://github.com/mlycore/awesome-kubecon/tree/master/Storage#2019-kubeconeu-barcelona)
   * [Tutorials](https://github.com/mlycore/awesome-kubecon/tree/master/Tutorials#2019-kubeconeu-barcelona)
 
-* 2018 KubeConNA Seattle
+* 2019 KubeConNA   San Diego
+  * [Application Development]()
+  * [CICD]()	
+  * [Case Studies]()	
+  * [Community]()	
+  * [Customizing Extending Kubernetes]()	
+  * [Keynotes]()	
+  * [Lightning Talks]()	
+  * [Machine Learning Data]()	
+  * [Maintainer Track]()	
+  * [Networking]()	
+  * [Observability]()	
+  * [Operations]()	
+  * [Performance Scalability]()	
+  * [Runtimes]()
+  * [Security Identity Policy]()	
+  * [Serverless]()
+  * [Service Mesh]()	
+  * [Storage]()
+  * [Tutorials]()
+  
+* 2019 KubeConCN Shanghai
+  * [Application Development]()
+  * [CICD]()	
+  * [Case Studies]()	
+  * [Community]()	
+  * [Customizing Extending Kubernetes]()	
+  * [Keynotes]()	
+  * [Lightning Talks]()	
+  * [Machine Learning Data]()	
+  * [Maintainer Track]()		
+  * [Networking]()	
+  * [Observability]()	
+  * [Operations]()	
+  * [Performance Scalability]()	
+  * [Runtimes]()
+  * [Security Identity Policy]()	
+  * [Serverless]()
+  * [Service Mesh]()	
+  * [Storage]()
+
+### 2018年
+
+* 2018 KubeConEU  Copenhagen 
+  * [Application Development]()
+  * [Birds of a Feather]()	
+  * [CICD]()	
+  * [Case Studies]()	
+  * [Community]()	
+  * [Customizing Extending Kubernetes]()	
+  * [Keynotes]()	
+  * [Lightning Talks]()	
+  * [Machine Learning Data]()	
+  * [Networking]()	
+  * [Observability]()	
+  * [Operations]()	
+  * [Runtimes]()
+  * [Security Identity Policy]()	
+  * [Serverless]()
+  * [Service Mesh]()	
+  * [Storage]()
+* 2018 KubeConNA  Seattle
   * [Appplication Development](https://github.com/mlycore/awesome-kubecon/tree/master/Application%20Development#2018-kubeconna-seattle)
   * [Birds of a Feather](https://github.com/mlycore/awesome-kubecon/tree/master/Birds%20of%20a%20Feather#2018-kubeconna-seattle)
+  * [CICD]()	
   * [Case Studies](https://github.com/mlycore/awesome-kubecon/tree/master/Case%20Studies#2018-kubeconna-seattle)
   * [Community](https://github.com/mlycore/awesome-kubecon/tree/master/Community#2018-kubeconna-seattle)
   * [Customizing Extending Kubernetes](https://github.com/mlycore/awesome-kubecon/tree/master/Customizing%20Extending%20Kubernetes#2018-kubeconna-seattle)
@@ -34,3 +98,59 @@ This is the briefcase of KubeCon Tags, aiming at providing fast search by speech
   * [Machine Learning Data](https://github.com/mlycore/awesome-kubecon/tree/master/Machine%20Learning%20Data#2018-kubeconna-seattle)
   * [Maintainer Track](https://github.com/mlycore/awesome-kubecon/tree/master/Maintainer%20Track#2018-kubeconna-seattle)
   * [Multi Cluster](https://github.com/mlycore/awesome-kubecon/tree/master/Multi%20Cluster#2018-kubeconna-seattle)
+  * [Networking]()	
+  * [Observability]()	
+  * [Operations]()	
+  * [Performance Scalability]()	
+  * [Runtimes]()
+  * [Security Identity Policy]()	
+  * [Serverless]()
+  * [Service Mesh]()	
+  * [Storage]()
+  * [Tutorials]()
+
+* 2018 KubeConCN Shanghai
+  * [Application Development]()
+  * [CICD]()	
+  * [Case Studies]()	
+  * [Customizing Extending Kubernetes]()	
+  * [Keynotes]()	
+  * [Lightning Talks]()	
+  * [Machine Learning Data]()	
+  * [Maintainer Track]()	
+  * [Observability]()	
+  * [Operations]()	
+  * [Runtimes]()
+  * [Security Identity Policy]()	
+  * [Serverless]()
+  * [Service Mesh]()	
+
+### 2017年
+
+* 2017KubeConEU Berlin
+
+  * [Birds of a Feather]()		
+  * [Keynotes]()	
+  * [Lightning Talks]()		
+  
+* 2017 KubeConNA  Texas 
+
+  * [Application Development]()
+  * [Birds of a Feather]()	
+  * [Case Studies]()	
+  * [Community]()	
+  * [Keynotes]()	
+  * [Lightning Talks]()	
+  * [Machine Learning Data]()	
+  * [Observability]()	
+  * [Operations]()	
+  * [Serverless]()
+  * [Storage]()
+  
+
+### 2016年
+
+* 2016 KubeConNA  Seattle
+  * [Birds of a Feather]()		
+  * [Keynotes]()	
+  * [Lightning Talks]()	
